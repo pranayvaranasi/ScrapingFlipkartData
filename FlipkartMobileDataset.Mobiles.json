@@ -1,0 +1,4320 @@
+[{
+  "_id": {
+    "$oid": "666a82e757640de9615819b3"
+  },
+  "Name": "Motorola G34 5G (Ocean Green, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹11,999",
+  "Actual_Price": "₹14,999",
+  "Offer": "75,277 Ratings & 5,820 Reviews",
+  "Total Ratings": "20% off",
+  "Total Reviews": "75,277"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819b4"
+  },
+  "Name": "Motorola G34 5G (Ice Blue, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹11,999",
+  "Actual_Price": "₹14,999",
+  "Offer": "75,277 Ratings & 5,820 Reviews",
+  "Total Ratings": "20% off",
+  "Total Reviews": "75,277"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819b5"
+  },
+  "Name": "Motorola G34 5G (Charcoal Black, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹11,999",
+  "Actual_Price": "₹14,999",
+  "Offer": "75,277 Ratings & 5,820 Reviews",
+  "Total Ratings": "20% off",
+  "Total Reviews": "75,277"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819b6"
+  },
+  "Name": "POCO C65 (Pastel Blue, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹6,799",
+  "Actual_Price": "₹10,999",
+  "Offer": "22,995 Ratings & 1,334 Reviews",
+  "Total Ratings": "38% off",
+  "Total Reviews": "22,995"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819b7"
+  },
+  "Name": "POCO C65 (Matte Black, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹6,799",
+  "Actual_Price": "₹10,999",
+  "Offer": "22,995 Ratings & 1,334 Reviews",
+  "Total Ratings": "38% off",
+  "Total Reviews": "22,995"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819b8"
+  },
+  "Name": "POCO M6 Pro 5G (Power Black, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹9,999",
+  "Actual_Price": "₹16,999",
+  "Offer": "96,979 Ratings & 6,270 Reviews",
+  "Total Ratings": "41% off",
+  "Total Reviews": "96,979"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819b9"
+  },
+  "Name": "Motorola g04s (Satin Blue, 64 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹6,999",
+  "Actual_Price": "₹9,999",
+  "Offer": "507 Ratings & 50 Reviews",
+  "Total Ratings": "30% off",
+  "Total Reviews": "507"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819ba"
+  },
+  "Name": "POCO C65 (Pastel Green, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹6,799",
+  "Actual_Price": "₹10,999",
+  "Offer": "22,995 Ratings & 1,334 Reviews",
+  "Total Ratings": "38% off",
+  "Total Reviews": "22,995"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819bb"
+  },
+  "Name": "Motorola g04s (Concord Black, 64 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹6,999",
+  "Actual_Price": "₹9,999",
+  "Offer": "507 Ratings & 50 Reviews",
+  "Total Ratings": "30% off",
+  "Total Reviews": "507"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819bc"
+  },
+  "Name": "Nokia 105 Single SIM, Keypad Mobile Phone with Wireless FM Radio",
+  "Rating": 4.1,
+  "Sales_Price": "₹1,287",
+  "Actual_Price": "₹1,599",
+  "Offer": "1,01,278 Ratings & 6,405 Reviews",
+  "Total Ratings": "19% off",
+  "Total Reviews": "1,01,278"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819bd"
+  },
+  "Name": "Nokia 105 Single SIM, Keypad Mobile Phone with Wireless FM Radio",
+  "Rating": 4.1,
+  "Sales_Price": "₹1,199",
+  "Actual_Price": "₹1,599",
+  "Offer": "1,01,278 Ratings & 6,405 Reviews",
+  "Total Ratings": "25% off",
+  "Total Reviews": "1,01,278"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819be"
+  },
+  "Name": "OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹16,878",
+  "Actual_Price": "₹19,999",
+  "Offer": "82,247 Ratings & 4,770 Reviews",
+  "Total Ratings": "15% off",
+  "Total Reviews": "82,247"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819bf"
+  },
+  "Name": "OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹19,945",
+  "Actual_Price": "₹21,999",
+  "Offer": "82,247 Ratings & 4,770 Reviews",
+  "Total Ratings": "9% off",
+  "Total Reviews": "82,247"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819c0"
+  },
+  "Name": "Nokia 105 Single SIM, Keypad Mobile Phone with Wireless FM Radio",
+  "Rating": 4.1,
+  "Sales_Price": "₹1,244",
+  "Actual_Price": "₹1,599",
+  "Offer": "1,01,278 Ratings & 6,405 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "1,01,278"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819c1"
+  },
+  "Name": "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹16,879",
+  "Actual_Price": "₹19,999",
+  "Offer": "82,247 Ratings & 4,770 Reviews",
+  "Total Ratings": "15% off",
+  "Total Reviews": "82,247"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819c2"
+  },
+  "Name": "realme 12x 5G (Twilight Purple, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹14,999",
+  "Actual_Price": "₹18,999",
+  "Offer": "2,915 Ratings & 136 Reviews",
+  "Total Ratings": "21% off",
+  "Total Reviews": "2,915"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819c3"
+  },
+  "Name": "POCO C65 (Pastel Green, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹7,499",
+  "Actual_Price": "₹11,999",
+  "Offer": "6,624 Ratings & 401 Reviews",
+  "Total Ratings": "37% off",
+  "Total Reviews": "6,624"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819c4"
+  },
+  "Name": "POCO M6 Pro 5G (Forest Green, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹10,499",
+  "Actual_Price": "₹16,999",
+  "Offer": "96,979 Ratings & 6,270 Reviews",
+  "Total Ratings": "38% off",
+  "Total Reviews": "96,979"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819c5"
+  },
+  "Name": "MOTOROLA g24 Power (Glacier Blue, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹7,999",
+  "Actual_Price": "₹11,999",
+  "Offer": "10,321 Ratings & 808 Reviews",
+  "Total Ratings": "33% off",
+  "Total Reviews": "10,321"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819c6"
+  },
+  "Name": "vivo T3x 5G (Crimson Bliss, 128 GB)",
+  "Rating": 4.5,
+  "Sales_Price": "₹14,999",
+  "Actual_Price": "₹18,999",
+  "Offer": "20,121 Ratings & 590 Reviews",
+  "Total Ratings": "21% off",
+  "Total Reviews": "20,121"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819c7"
+  },
+  "Name": "REDMI 13C (Stardust Black, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹7,699",
+  "Actual_Price": "₹11,999",
+  "Offer": "21,157 Ratings & 987 Reviews",
+  "Total Ratings": "35% off",
+  "Total Reviews": "21,157"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819c8"
+  },
+  "Name": "realme 12x 5G (Woodland Green, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹12,999",
+  "Actual_Price": "₹17,999",
+  "Offer": "23,118 Ratings & 1,160 Reviews",
+  "Total Ratings": "27% off",
+  "Total Reviews": "23,118"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819c9"
+  },
+  "Name": "realme 12x 5G (Twilight Purple, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹12,999",
+  "Actual_Price": "₹17,999",
+  "Offer": "23,118 Ratings & 1,160 Reviews",
+  "Total Ratings": "27% off",
+  "Total Reviews": "23,118"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819ca"
+  },
+  "Name": "vivo T3x 5G (Celestial Green, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹16,499",
+  "Actual_Price": "₹20,499",
+  "Offer": "4,360 Ratings & 198 Reviews",
+  "Total Ratings": "19% off",
+  "Total Reviews": "4,360"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819cb"
+  },
+  "Name": "vivo T3x 5G (Celestial Green, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹13,499",
+  "Actual_Price": "₹17,499",
+  "Offer": "5,357 Ratings & 178 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "5,357"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819cc"
+  },
+  "Name": "vivo T3x 5G (Celestial Green, 128 GB)",
+  "Rating": 4.5,
+  "Sales_Price": "₹14,999",
+  "Actual_Price": "₹18,999",
+  "Offer": "20,121 Ratings & 590 Reviews",
+  "Total Ratings": "21% off",
+  "Total Reviews": "20,121"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819cd"
+  },
+  "Name": "POCO M6 Pro 5G (Forest Green, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹10,499",
+  "Actual_Price": "₹16,999",
+  "Offer": "96,979 Ratings & 6,270 Reviews",
+  "Total Ratings": "38% off",
+  "Total Reviews": "96,979"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819ce"
+  },
+  "Name": "Apple iPhone 14 Plus (Starlight, 128 GB)",
+  "Rating": 4.6,
+  "Sales_Price": "₹61,999",
+  "Actual_Price": "₹79,900",
+  "Offer": "68,421 Ratings & 3,944 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "68,421"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819cf"
+  },
+  "Name": "POCO C61 (Diamond Dust Black, 64 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹6,499",
+  "Actual_Price": "₹8,999",
+  "Offer": "4,975 Ratings & 152 Reviews",
+  "Total Ratings": "27% off",
+  "Total Reviews": "4,975"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819d0"
+  },
+  "Name": "REDMI 13C (Starshine Green, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹7,699",
+  "Actual_Price": "₹11,999",
+  "Offer": "21,157 Ratings & 987 Reviews",
+  "Total Ratings": "35% off",
+  "Total Reviews": "21,157"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819d1"
+  },
+  "Name": "POCO C61 (Ethereal Blue, 64 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹6,499",
+  "Actual_Price": "₹8,999",
+  "Offer": "4,975 Ratings & 152 Reviews",
+  "Total Ratings": "27% off",
+  "Total Reviews": "4,975"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819d2"
+  },
+  "Name": "Motorola g04s (Sunrise Orange, 64 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹6,999",
+  "Actual_Price": "₹9,999",
+  "Offer": "507 Ratings & 50 Reviews",
+  "Total Ratings": "30% off",
+  "Total Reviews": "507"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819d3"
+  },
+  "Name": "Motorola G34 5G (Ocean Green, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹10,999",
+  "Actual_Price": "₹13,999",
+  "Offer": "32,556 Ratings & 2,686 Reviews",
+  "Total Ratings": "21% off",
+  "Total Reviews": "32,556"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819d4"
+  },
+  "Name": "POCO C65 (Pastel Blue, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹7,499",
+  "Actual_Price": "₹11,999",
+  "Offer": "6,624 Ratings & 401 Reviews",
+  "Total Ratings": "37% off",
+  "Total Reviews": "6,624"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819d5"
+  },
+  "Name": "vivo T3x 5G (Crimson Bliss, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹13,499",
+  "Actual_Price": "₹17,499",
+  "Offer": "5,357 Ratings & 178 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "5,357"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819d6"
+  },
+  "Name": "Motorola G34 5G (Ice Blue, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹10,999",
+  "Actual_Price": "₹13,999",
+  "Offer": "32,556 Ratings & 2,686 Reviews",
+  "Total Ratings": "21% off",
+  "Total Reviews": "32,556"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819d7"
+  },
+  "Name": "POCO C61 (Diamond Dust Black, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹6,999",
+  "Actual_Price": "₹9,999",
+  "Offer": "4,900 Ratings & 135 Reviews",
+  "Total Ratings": "30% off",
+  "Total Reviews": "4,900"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819d8"
+  },
+  "Name": "POCO C65 (Matte Black, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹7,499",
+  "Actual_Price": "₹11,999",
+  "Offer": "6,624 Ratings & 401 Reviews",
+  "Total Ratings": "37% off",
+  "Total Reviews": "6,624"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819d9"
+  },
+  "Name": "Nokia 130 Music Dual Sim, Music Player, Wireless FM Radio and Dedicated Music Buttons",
+  "Rating": 4.2,
+  "Sales_Price": "₹1,949",
+  "Actual_Price": "₹2,199",
+  "Offer": "3,146 Ratings & 170 Reviews",
+  "Total Ratings": "11% off",
+  "Total Reviews": "3,146"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819da"
+  },
+  "Name": "Nokia 130 Music Dual Sim, Music Player, Wireless FM Radio and Dedicated Music Buttons",
+  "Rating": 4.2,
+  "Sales_Price": "₹1,848",
+  "Actual_Price": "₹2,199",
+  "Offer": "3,146 Ratings & 170 Reviews",
+  "Total Ratings": "15% off",
+  "Total Reviews": "3,146"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819db"
+  },
+  "Name": "Motorola Edge 40 Neo (Black Beauty, 256 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹24,999",
+  "Actual_Price": "₹29,999",
+  "Offer": "47,077 Ratings & 5,862 Reviews",
+  "Total Ratings": "16% off",
+  "Total Reviews": "47,077"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819dc"
+  },
+  "Name": "POCO M6 5G (Galactic Black, 256 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹10,999",
+  "Actual_Price": "₹15,999",
+  "Offer": "9,012 Ratings & 508 Reviews",
+  "Total Ratings": "31% off",
+  "Total Reviews": "9,012"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819dd"
+  },
+  "Name": "Nokia 130 Music Dual Sim, Music Player, Wireless FM Radio and Dedicated Music Buttons",
+  "Rating": 4.2,
+  "Sales_Price": "₹1,849",
+  "Actual_Price": "₹2,199",
+  "Offer": "3,146 Ratings & 170 Reviews",
+  "Total Ratings": "15% off",
+  "Total Reviews": "3,146"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819de"
+  },
+  "Name": "Motorola G34 5G (Charcoal Black, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹10,999",
+  "Actual_Price": "₹13,999",
+  "Offer": "32,556 Ratings & 2,686 Reviews",
+  "Total Ratings": "21% off",
+  "Total Reviews": "32,556"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819df"
+  },
+  "Name": "REDMI 13C (Stardust Black, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹8,499",
+  "Actual_Price": "₹13,999",
+  "Offer": "6,502 Ratings & 293 Reviews",
+  "Total Ratings": "39% off",
+  "Total Reviews": "6,502"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819e0"
+  },
+  "Name": "SAMSUNG Galaxy F34 5G (Electric Black, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹12,999",
+  "Actual_Price": "₹24,499",
+  "Offer": "35,267 Ratings & 2,749 Reviews",
+  "Total Ratings": "46% off",
+  "Total Reviews": "35,267"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819e1"
+  },
+  "Name": "REDMI 13C (Starfrost White, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹8,499",
+  "Actual_Price": "₹13,999",
+  "Offer": "6,502 Ratings & 293 Reviews",
+  "Total Ratings": "39% off",
+  "Total Reviews": "6,502"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819e2"
+  },
+  "Name": "Motorola Edge 50 Fusion (Marshmallow Blue, 128 GB)",
+  "Rating": 4.5,
+  "Sales_Price": "₹22,999",
+  "Actual_Price": "₹25,999",
+  "Offer": "7,679 Ratings & 433 Reviews",
+  "Total Ratings": "11% off",
+  "Total Reviews": "7,679"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819e3"
+  },
+  "Name": "Motorola g64 5G (Mint Green, 256 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹15,999",
+  "Actual_Price": "₹19,999",
+  "Offer": "5,146 Ratings & 313 Reviews",
+  "Total Ratings": "20% off",
+  "Total Reviews": "5,146"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819e4"
+  },
+  "Name": "SAMSUNG Galaxy F34 5G (Mystic Green, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹12,999",
+  "Actual_Price": "₹24,499",
+  "Offer": "35,267 Ratings & 2,749 Reviews",
+  "Total Ratings": "46% off",
+  "Total Reviews": "35,267"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819e5"
+  },
+  "Name": "POCO M6 5G (Polaris Green, 256 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹10,999",
+  "Actual_Price": "₹15,999",
+  "Offer": "9,012 Ratings & 508 Reviews",
+  "Total Ratings": "31% off",
+  "Total Reviews": "9,012"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819e6"
+  },
+  "Name": "Nokia 130 Music Dual Sim, Music Player, Wireless FM Radio and Dedicated Music Buttons",
+  "Rating": 4.2,
+  "Sales_Price": "₹1,849",
+  "Actual_Price": "₹2,199",
+  "Offer": "3,146 Ratings & 170 Reviews",
+  "Total Ratings": "15% off",
+  "Total Reviews": "3,146"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819e7"
+  },
+  "Name": "POCO M6 5G - Locked with Airtel Prepaid (Polaris Green, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹7,999",
+  "Actual_Price": "₹12,999",
+  "Offer": "25,796 Ratings & 1,576 Reviews",
+  "Total Ratings": "38% off",
+  "Total Reviews": "25,796"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819e8"
+  },
+  "Name": "Apple iPhone 15 (Pink, 128 GB)",
+  "Rating": 4.6,
+  "Sales_Price": "₹63,999",
+  "Actual_Price": "₹79,900",
+  "Offer": "36,600 Ratings & 2,086 Reviews",
+  "Total Ratings": "19% off",
+  "Total Reviews": "36,600"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819e9"
+  },
+  "Name": "Motorola Edge 40 Neo (Soothing Sea, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹22,999",
+  "Actual_Price": "₹27,999",
+  "Offer": "49,386 Ratings & 5,461 Reviews",
+  "Total Ratings": "17% off",
+  "Total Reviews": "49,386"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819ea"
+  },
+  "Name": "POCO M6 5G (Orion Blue, 256 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹10,999",
+  "Actual_Price": "₹15,999",
+  "Offer": "9,012 Ratings & 508 Reviews",
+  "Total Ratings": "31% off",
+  "Total Reviews": "9,012"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819eb"
+  },
+  "Name": "POCO M6 5G (Galactic Black, 256 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹10,999",
+  "Actual_Price": "₹15,999",
+  "Offer": "9,012 Ratings & 508 Reviews",
+  "Total Ratings": "31% off",
+  "Total Reviews": "9,012"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819ec"
+  },
+  "Name": "REDMI 13C (Starshine Green, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹7,699",
+  "Actual_Price": "₹11,999",
+  "Offer": "21,157 Ratings & 987 Reviews",
+  "Total Ratings": "35% off",
+  "Total Reviews": "21,157"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819ed"
+  },
+  "Name": "POCO C61 (Mystical Green, 64 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹6,499",
+  "Actual_Price": "₹8,999",
+  "Offer": "4,975 Ratings & 152 Reviews",
+  "Total Ratings": "27% off",
+  "Total Reviews": "4,975"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819ee"
+  },
+  "Name": "Apple iPhone 14 Plus (Starlight, 128 GB)",
+  "Rating": 4.6,
+  "Sales_Price": "₹61,999",
+  "Actual_Price": "₹79,900",
+  "Offer": "68,421 Ratings & 3,944 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "68,421"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819ef"
+  },
+  "Name": "REDMI 12 5G (Moonstone Silver, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹11,999",
+  "Actual_Price": "₹15,999",
+  "Offer": "7,710 Ratings & 374 Reviews",
+  "Total Ratings": "25% off",
+  "Total Reviews": "7,710"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819f0"
+  },
+  "Name": "POCO C65 (Pastel Blue, 256 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹8,499",
+  "Actual_Price": "₹13,499",
+  "Offer": "6,589 Ratings & 384 Reviews",
+  "Total Ratings": "37% off",
+  "Total Reviews": "6,589"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819f1"
+  },
+  "Name": "POCO M6 5G (Orion Blue, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹9,999",
+  "Actual_Price": "₹13,999",
+  "Offer": "19,803 Ratings & 1,118 Reviews",
+  "Total Ratings": "28% off",
+  "Total Reviews": "19,803"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819f2"
+  },
+  "Name": "Motorola g64 5G (Pearl Blue, 256 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹15,999",
+  "Actual_Price": "₹19,999",
+  "Offer": "5,146 Ratings & 313 Reviews",
+  "Total Ratings": "20% off",
+  "Total Reviews": "5,146"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819f3"
+  },
+  "Name": "POCO M6 5G (Galactic Black, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹8,999",
+  "Actual_Price": "₹12,999",
+  "Offer": "25,796 Ratings & 1,576 Reviews",
+  "Total Ratings": "30% off",
+  "Total Reviews": "25,796"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819f4"
+  },
+  "Name": "REDMI 13C 5G (Startrail Green, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹10,499",
+  "Actual_Price": "₹13,999",
+  "Offer": "5,483 Ratings & 220 Reviews",
+  "Total Ratings": "25% off",
+  "Total Reviews": "5,483"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819f5"
+  },
+  "Name": "REDMI 13C 5G (Starlight Black, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹10,499",
+  "Actual_Price": "₹13,999",
+  "Offer": "5,483 Ratings & 220 Reviews",
+  "Total Ratings": "25% off",
+  "Total Reviews": "5,483"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819f6"
+  },
+  "Name": "vivo T2 Pro 5G (Dune Gold, 256 GB)",
+  "Rating": 4.5,
+  "Sales_Price": "₹23,999",
+  "Actual_Price": "₹27,999",
+  "Offer": "97,953 Ratings & 8,046 Reviews",
+  "Total Ratings": "14% off",
+  "Total Reviews": "97,953"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819f7"
+  },
+  "Name": "REDMI 12 5G (Pastel Blue, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹11,999",
+  "Actual_Price": "₹15,999",
+  "Offer": "7,710 Ratings & 374 Reviews",
+  "Total Ratings": "25% off",
+  "Total Reviews": "7,710"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819f8"
+  },
+  "Name": "LAVA Z3 Pro (Striped Cyan, 32 GB)",
+  "Rating": 4,
+  "Sales_Price": "₹5,114",
+  "Actual_Price": "₹8,499",
+  "Offer": "1,544 Ratings & 182 Reviews",
+  "Total Ratings": "39% off",
+  "Total Reviews": "1,544"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819f9"
+  },
+  "Name": "vivo T2 Pro 5G (New Moon Black, 128 GB)",
+  "Rating": 4.5,
+  "Sales_Price": "₹22,999",
+  "Actual_Price": "₹26,999",
+  "Offer": "97,953 Ratings & 8,046 Reviews",
+  "Total Ratings": "14% off",
+  "Total Reviews": "97,953"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819fa"
+  },
+  "Name": "Apple iPhone 15 (Black, 128 GB)",
+  "Rating": 4.6,
+  "Sales_Price": "₹63,999",
+  "Actual_Price": "₹79,900",
+  "Offer": "36,600 Ratings & 2,086 Reviews",
+  "Total Ratings": "19% off",
+  "Total Reviews": "36,600"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819fb"
+  },
+  "Name": "realme P1 5G (Phoenix Red, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹18,999",
+  "Actual_Price": "₹22,999",
+  "Offer": "5,210 Ratings & 306 Reviews",
+  "Total Ratings": "17% off",
+  "Total Reviews": "5,210"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819fc"
+  },
+  "Name": "REDMI 13C (Starshine Green, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹8,499",
+  "Actual_Price": "₹13,999",
+  "Offer": "6,502 Ratings & 293 Reviews",
+  "Total Ratings": "39% off",
+  "Total Reviews": "6,502"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819fd"
+  },
+  "Name": "Apple iPhone 15 (Blue, 128 GB)",
+  "Rating": 4.6,
+  "Sales_Price": "₹63,999",
+  "Actual_Price": "₹79,900",
+  "Offer": "36,600 Ratings & 2,086 Reviews",
+  "Total Ratings": "19% off",
+  "Total Reviews": "36,600"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819fe"
+  },
+  "Name": "vivo T2 Pro 5G (Dune Gold, 128 GB)",
+  "Rating": 4.5,
+  "Sales_Price": "₹22,999",
+  "Actual_Price": "₹26,999",
+  "Offer": "97,953 Ratings & 8,046 Reviews",
+  "Total Ratings": "14% off",
+  "Total Reviews": "97,953"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de9615819ff"
+  },
+  "Name": "POCO M6 5G (Polaris Green, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹9,999",
+  "Actual_Price": "₹13,999",
+  "Offer": "19,803 Ratings & 1,118 Reviews",
+  "Total Ratings": "28% off",
+  "Total Reviews": "19,803"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a00"
+  },
+  "Name": "Motorola Edge 40 Neo (Black Beauty, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹22,999",
+  "Actual_Price": "₹27,999",
+  "Offer": "49,386 Ratings & 5,461 Reviews",
+  "Total Ratings": "17% off",
+  "Total Reviews": "49,386"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a01"
+  },
+  "Name": "LAVA A1 Josh BOL Keypad Mobile|1000 mAh Battery|Expandable Storage 32GB",
+  "Rating": 4,
+  "Sales_Price": "₹929",
+  "Actual_Price": "₹1,399",
+  "Offer": "5,182 Ratings & 260 Reviews",
+  "Total Ratings": "33% off",
+  "Total Reviews": "5,182"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a02"
+  },
+  "Name": "POCO M6 5G - Locked with Airtel Prepaid (Orion Blue, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹7,999",
+  "Actual_Price": "₹12,999",
+  "Offer": "25,796 Ratings & 1,576 Reviews",
+  "Total Ratings": "38% off",
+  "Total Reviews": "25,796"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a03"
+  },
+  "Name": "REDMI 12 5G (Jade Black, 256 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹13,999",
+  "Actual_Price": "₹19,999",
+  "Offer": "16,949 Ratings & 1,130 Reviews",
+  "Total Ratings": "30% off",
+  "Total Reviews": "16,949"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a04"
+  },
+  "Name": "realme P1 Pro 5G (Parrot Blue, 256 GB)",
+  "Rating": 4.5,
+  "Sales_Price": "₹22,999",
+  "Actual_Price": "₹25,999",
+  "Offer": "3,489 Ratings & 191 Reviews",
+  "Total Ratings": "11% off",
+  "Total Reviews": "3,489"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a05"
+  },
+  "Name": "realme P1 Pro 5G (Phoenix Red, 256 GB)",
+  "Rating": 4.5,
+  "Sales_Price": "₹22,999",
+  "Actual_Price": "₹25,999",
+  "Offer": "3,489 Ratings & 191 Reviews",
+  "Total Ratings": "11% off",
+  "Total Reviews": "3,489"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a06"
+  },
+  "Name": "REDMI 12 5G (Pastel Blue, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹12,499",
+  "Actual_Price": "₹17,999",
+  "Offer": "31,624 Ratings & 1,598 Reviews",
+  "Total Ratings": "30% off",
+  "Total Reviews": "31,624"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a07"
+  },
+  "Name": "itel Ace2 Keypad Mobile| 1000 mAh Battery|Expandable Storage 32GB",
+  "Rating": 4,
+  "Sales_Price": "₹844",
+  "Actual_Price": "₹1,199",
+  "Offer": "4,468 Ratings & 338 Reviews",
+  "Total Ratings": "29% off",
+  "Total Reviews": "4,468"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a08"
+  },
+  "Name": "REDMI 12 5G (Moonstone Silver, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹12,499",
+  "Actual_Price": "₹17,999",
+  "Offer": "31,624 Ratings & 1,598 Reviews",
+  "Total Ratings": "30% off",
+  "Total Reviews": "31,624"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a09"
+  },
+  "Name": "realme P1 5G (Peacock Green, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹16,999",
+  "Actual_Price": "₹21,999",
+  "Offer": "5,210 Ratings & 306 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "5,210"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a0a"
+  },
+  "Name": "REDMI 13C 5G (Startrail Silver, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹10,499",
+  "Actual_Price": "₹13,999",
+  "Offer": "5,483 Ratings & 220 Reviews",
+  "Total Ratings": "25% off",
+  "Total Reviews": "5,483"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a0b"
+  },
+  "Name": "Apple iPhone 14 Plus (Blue, 128 GB)",
+  "Rating": 4.6,
+  "Sales_Price": "₹61,999",
+  "Actual_Price": "₹79,900",
+  "Offer": "68,421 Ratings & 3,944 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "68,421"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a0c"
+  },
+  "Name": "Micromax J3",
+  "Rating": 3.9,
+  "Sales_Price": "₹828",
+  "Actual_Price": "₹1,549",
+  "Offer": "1,061 Ratings & 62 Reviews",
+  "Total Ratings": "46% off",
+  "Total Reviews": "1,061"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a0d"
+  },
+  "Name": "POCO X6 Neo 5G (Astral Black, 256 GB)",
+  "Rating": 4.1,
+  "Sales_Price": "₹15,999",
+  "Actual_Price": "₹21,999",
+  "Offer": "2,930 Ratings & 207 Reviews",
+  "Total Ratings": "27% off",
+  "Total Reviews": "2,930"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a0e"
+  },
+  "Name": "realme P1 5G (Peacock Green, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹15,999",
+  "Actual_Price": "₹20,999",
+  "Offer": "12,472 Ratings & 805 Reviews",
+  "Total Ratings": "23% off",
+  "Total Reviews": "12,472"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a0f"
+  },
+  "Name": "Infinix SMART 8 HD (Timber Black, 64 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹6,499",
+  "Actual_Price": "₹7,999",
+  "Offer": "29,990 Ratings & 2,214 Reviews",
+  "Total Ratings": "18% off",
+  "Total Reviews": "29,990"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a10"
+  },
+  "Name": "Infinix SMART 8 HD (Crystal Green, 64 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹6,499",
+  "Actual_Price": "₹7,999",
+  "Offer": "29,990 Ratings & 2,214 Reviews",
+  "Total Ratings": "18% off",
+  "Total Reviews": "29,990"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a11"
+  },
+  "Name": "Infinix SMART 8 HD (Shiny Gold, 64 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹6,499",
+  "Actual_Price": "₹7,999",
+  "Offer": "29,990 Ratings & 2,214 Reviews",
+  "Total Ratings": "18% off",
+  "Total Reviews": "29,990"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a12"
+  },
+  "Name": "realme P1 5G (Phoenix Red, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹16,999",
+  "Actual_Price": "₹21,999",
+  "Offer": "5,210 Ratings & 306 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "5,210"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a13"
+  },
+  "Name": "Infinix SMART 8 HD (Galaxy White, 64 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹6,499",
+  "Actual_Price": "₹7,999",
+  "Offer": "29,990 Ratings & 2,214 Reviews",
+  "Total Ratings": "18% off",
+  "Total Reviews": "29,990"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a14"
+  },
+  "Name": "Infinix SMART 8 HD (Timber Black, 64 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹6,499",
+  "Actual_Price": "₹7,999",
+  "Offer": "29,990 Ratings & 2,214 Reviews",
+  "Total Ratings": "18% off",
+  "Total Reviews": "29,990"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a15"
+  },
+  "Name": "MOTOROLA g24 Power (Ink blue, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹7,999",
+  "Actual_Price": "₹11,999",
+  "Offer": "10,321 Ratings & 808 Reviews",
+  "Total Ratings": "33% off",
+  "Total Reviews": "10,321"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a16"
+  },
+  "Name": "MOTOROLA G04 (Satin Blue, 128 GB)",
+  "Rating": 4.1,
+  "Sales_Price": "₹7,999",
+  "Actual_Price": "₹10,999",
+  "Offer": "5,086 Ratings & 415 Reviews",
+  "Total Ratings": "27% off",
+  "Total Reviews": "5,086"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a17"
+  },
+  "Name": "realme P1 5G (Phoenix Red, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹16,999",
+  "Actual_Price": "₹21,999",
+  "Offer": "5,210 Ratings & 306 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "5,210"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a18"
+  },
+  "Name": "Nokia 105 ss",
+  "Rating": 4.2,
+  "Sales_Price": "₹1,290",
+  "Actual_Price": "₹1,599",
+  "Offer": "84,107 Ratings & 7,493 Reviews",
+  "Total Ratings": "19% off",
+  "Total Reviews": "84,107"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a19"
+  },
+  "Name": "realme P1 5G (Peacock Green, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹18,999",
+  "Actual_Price": "₹22,999",
+  "Offer": "5,210 Ratings & 306 Reviews",
+  "Total Ratings": "17% off",
+  "Total Reviews": "5,210"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a1a"
+  },
+  "Name": "realme P1 5G (Phoenix Red, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹18,999",
+  "Actual_Price": "₹22,999",
+  "Offer": "5,210 Ratings & 306 Reviews",
+  "Total Ratings": "17% off",
+  "Total Reviews": "5,210"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a1b"
+  },
+  "Name": "REDMI 12 5G (Moonstone Silver, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹12,499",
+  "Actual_Price": "₹17,999",
+  "Offer": "31,624 Ratings & 1,598 Reviews",
+  "Total Ratings": "30% off",
+  "Total Reviews": "31,624"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a1c"
+  },
+  "Name": "Infinix HOT 40i (Palm Blue, 256 GB)",
+  "Rating": 4.1,
+  "Sales_Price": "₹8,999",
+  "Actual_Price": "₹10,999",
+  "Offer": "8,062 Ratings & 538 Reviews",
+  "Total Ratings": "18% off",
+  "Total Reviews": "8,062"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a1d"
+  },
+  "Name": "Infinix HOT 40i (Horizon Gold, 256 GB)",
+  "Rating": 4.1,
+  "Sales_Price": "₹8,999",
+  "Actual_Price": "₹10,999",
+  "Offer": "8,062 Ratings & 538 Reviews",
+  "Total Ratings": "18% off",
+  "Total Reviews": "8,062"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a1e"
+  },
+  "Name": "realme P1 5G (Phoenix Red, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹15,999",
+  "Actual_Price": "₹20,999",
+  "Offer": "12,472 Ratings & 805 Reviews",
+  "Total Ratings": "23% off",
+  "Total Reviews": "12,472"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a1f"
+  },
+  "Name": "SAMSUNG Galaxy F14 5G (B.A.E. Purple, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹9,490",
+  "Actual_Price": "₹18,490",
+  "Offer": "1,09,702 Ratings & 7,966 Reviews",
+  "Total Ratings": "48% off",
+  "Total Reviews": "1,09,702"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a20"
+  },
+  "Name": "MOTOROLA G04 (Sunrise Orange, 64 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹6,999",
+  "Actual_Price": "₹9,999",
+  "Offer": "11,579 Ratings & 784 Reviews",
+  "Total Ratings": "30% off",
+  "Total Reviews": "11,579"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a21"
+  },
+  "Name": "Motorola Edge 50 Pro 5G with 68W Charger (Black Beauty, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹29,999",
+  "Actual_Price": "₹36,999",
+  "Offer": "13,164 Ratings & 1,229 Reviews",
+  "Total Ratings": "18% off",
+  "Total Reviews": "13,164"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a22"
+  },
+  "Name": "SAMSUNG Galaxy F34 5G (Orchid Violet, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹14,999",
+  "Actual_Price": "₹25,999",
+  "Offer": "8,220 Ratings & 671 Reviews",
+  "Total Ratings": "42% off",
+  "Total Reviews": "8,220"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a23"
+  },
+  "Name": "itel Magic X Pro 4G| 2500mAh Big Battery| Expandable Storage upto 64GB",
+  "Rating": 3.9,
+  "Sales_Price": "₹1,899",
+  "Actual_Price": "₹3,099",
+  "Offer": "11,341 Ratings & 1,140 Reviews",
+  "Total Ratings": "38% off",
+  "Total Reviews": "11,341"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a24"
+  },
+  "Name": "REDMI 12 5G (Jade Black, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹11,999",
+  "Actual_Price": "₹15,999",
+  "Offer": "7,710 Ratings & 374 Reviews",
+  "Total Ratings": "25% off",
+  "Total Reviews": "7,710"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a25"
+  },
+  "Name": "MOTOROLA G04 (Sea Green, 128 GB)",
+  "Rating": 4.1,
+  "Sales_Price": "₹7,999",
+  "Actual_Price": "₹10,999",
+  "Offer": "5,086 Ratings & 415 Reviews",
+  "Total Ratings": "27% off",
+  "Total Reviews": "5,086"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a26"
+  },
+  "Name": "SAMSUNG Galaxy F14 5G (GOAT Green, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹9,490",
+  "Actual_Price": "₹18,490",
+  "Offer": "1,09,702 Ratings & 7,966 Reviews",
+  "Total Ratings": "48% off",
+  "Total Reviews": "1,09,702"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a27"
+  },
+  "Name": "Infinix SMART 8 HD (Timber Black, 64 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹6,999",
+  "Actual_Price": "₹8,999",
+  "Offer": "159 Ratings & 4 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "159"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a28"
+  },
+  "Name": "realme P1 5G (Peacock Green, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹16,999",
+  "Actual_Price": "₹21,999",
+  "Offer": "5,210 Ratings & 306 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "5,210"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a29"
+  },
+  "Name": "Infinix SMART 8 HD (Crystal Green, 64 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹6,999",
+  "Actual_Price": "₹8,999",
+  "Offer": "159 Ratings & 4 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "159"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a2a"
+  },
+  "Name": "REDMI 12 5G (Pastel Blue, 256 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹13,999",
+  "Actual_Price": "₹19,999",
+  "Offer": "16,949 Ratings & 1,130 Reviews",
+  "Total Ratings": "30% off",
+  "Total Reviews": "16,949"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a2b"
+  },
+  "Name": "REDMI 12 5G (Pastel Blue, 256 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹13,999",
+  "Actual_Price": "₹19,999",
+  "Offer": "16,949 Ratings & 1,130 Reviews",
+  "Total Ratings": "30% off",
+  "Total Reviews": "16,949"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a2c"
+  },
+  "Name": "Infinix HOT 40i (Starfall Green, 256 GB)",
+  "Rating": 4.1,
+  "Sales_Price": "₹8,999",
+  "Actual_Price": "₹10,999",
+  "Offer": "8,062 Ratings & 538 Reviews",
+  "Total Ratings": "18% off",
+  "Total Reviews": "8,062"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a2d"
+  },
+  "Name": "POCO M6 Pro 5G (Power Black, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹9,499",
+  "Actual_Price": "₹15,999",
+  "Offer": "71,504 Ratings & 4,772 Reviews",
+  "Total Ratings": "40% off",
+  "Total Reviews": "71,504"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a2e"
+  },
+  "Name": "SAMSUNG Galaxy F14 5G (OMG Black, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹9,490",
+  "Actual_Price": "₹18,490",
+  "Offer": "1,09,702 Ratings & 7,966 Reviews",
+  "Total Ratings": "48% off",
+  "Total Reviews": "1,09,702"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a2f"
+  },
+  "Name": "POCO X6 Neo 5G (Martian Orange, 256 GB)",
+  "Rating": 4.1,
+  "Sales_Price": "₹15,999",
+  "Actual_Price": "₹21,999",
+  "Offer": "2,930 Ratings & 207 Reviews",
+  "Total Ratings": "27% off",
+  "Total Reviews": "2,930"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a30"
+  },
+  "Name": "POCO M6 5G - Locked with Airtel Prepaid (Galactic Black, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹7,999",
+  "Actual_Price": "₹12,999",
+  "Offer": "25,796 Ratings & 1,576 Reviews",
+  "Total Ratings": "38% off",
+  "Total Reviews": "25,796"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a31"
+  },
+  "Name": "Nokia TA-1174 / TA-1299",
+  "Rating": 4.2,
+  "Sales_Price": "₹1,199",
+  "Actual_Price": "₹1,699",
+  "Offer": "57,813 Ratings & 5,314 Reviews",
+  "Total Ratings": "29% off",
+  "Total Reviews": "57,813"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a32"
+  },
+  "Name": "Infinix SMART 8 (Shiny Gold, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹7,999",
+  "Actual_Price": "₹10,999",
+  "Offer": "6,173 Ratings & 395 Reviews",
+  "Total Ratings": "27% off",
+  "Total Reviews": "6,173"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a33"
+  },
+  "Name": "POCO M6 5G (Galactic Black, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹9,999",
+  "Actual_Price": "₹13,999",
+  "Offer": "19,803 Ratings & 1,118 Reviews",
+  "Total Ratings": "28% off",
+  "Total Reviews": "19,803"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a34"
+  },
+  "Name": "Motorola g64 5G (Mint Green, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹13,999",
+  "Actual_Price": "₹17,999",
+  "Offer": "8,189 Ratings & 443 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "8,189"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a35"
+  },
+  "Name": "REDMI 12 (Jade Black, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹9,499",
+  "Actual_Price": "₹14,999",
+  "Offer": "1,01,106 Ratings & 5,441 Reviews",
+  "Total Ratings": "36% off",
+  "Total Reviews": "1,01,106"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a36"
+  },
+  "Name": "REDMI 12 5G (Moonstone Silver, 256 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹13,999",
+  "Actual_Price": "₹19,999",
+  "Offer": "16,949 Ratings & 1,130 Reviews",
+  "Total Ratings": "30% off",
+  "Total Reviews": "16,949"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a37"
+  },
+  "Name": "Infinix SMART 8 (Rainbow Blue, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹7,999",
+  "Actual_Price": "₹10,999",
+  "Offer": "6,173 Ratings & 395 Reviews",
+  "Total Ratings": "27% off",
+  "Total Reviews": "6,173"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a38"
+  },
+  "Name": "Infinix SMART 8 (Galaxy White, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹7,999",
+  "Actual_Price": "₹10,999",
+  "Offer": "6,173 Ratings & 395 Reviews",
+  "Total Ratings": "27% off",
+  "Total Reviews": "6,173"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a39"
+  },
+  "Name": "Infinix SMART 8 (Rainbow Blue, 64 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹7,299",
+  "Actual_Price": "₹8,999",
+  "Offer": "19,448 Ratings & 1,293 Reviews",
+  "Total Ratings": "18% off",
+  "Total Reviews": "19,448"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a3a"
+  },
+  "Name": "Infinix SMART 8 (Galaxy White, 64 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹7,299",
+  "Actual_Price": "₹8,999",
+  "Offer": "19,448 Ratings & 1,293 Reviews",
+  "Total Ratings": "18% off",
+  "Total Reviews": "19,448"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a3b"
+  },
+  "Name": "Infinix SMART 8 (Shiny Gold, 64 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹7,299",
+  "Actual_Price": "₹8,999",
+  "Offer": "19,448 Ratings & 1,293 Reviews",
+  "Total Ratings": "18% off",
+  "Total Reviews": "19,448"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a3c"
+  },
+  "Name": "Kechaoda K112",
+  "Rating": 4,
+  "Sales_Price": "₹1,549",
+  "Actual_Price": "₹1,999",
+  "Offer": "26,173 Ratings & 2,563 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "26,173"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a3d"
+  },
+  "Name": "OnePlus Nord CE4 (Celadon Marble, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹26,790",
+  "Actual_Price": "₹26,999",
+  "Offer": "5,739 Ratings & 326 Reviews",
+  "Total Ratings": "No Offer",
+  "Total Reviews": "5,739"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a3e"
+  },
+  "Name": "Infinix HOT 40i (Starlit Black, 256 GB)",
+  "Rating": 4.1,
+  "Sales_Price": "₹8,999",
+  "Actual_Price": "₹10,999",
+  "Offer": "8,062 Ratings & 538 Reviews",
+  "Total Ratings": "18% off",
+  "Total Reviews": "8,062"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a3f"
+  },
+  "Name": "realme C65 5G (Feather Green, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹12,499",
+  "Actual_Price": "₹15,999",
+  "Offer": "1,943 Ratings & 49 Reviews",
+  "Total Ratings": "21% off",
+  "Total Reviews": "1,943"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a40"
+  },
+  "Name": "realme C51 (Carbon Black, 64 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹8,999",
+  "Actual_Price": "₹10,999",
+  "Offer": "84,230 Ratings & 3,617 Reviews",
+  "Total Ratings": "18% off",
+  "Total Reviews": "84,230"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a41"
+  },
+  "Name": "Infinix SMART 8 (Timber Black, 64 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹7,299",
+  "Actual_Price": "₹8,999",
+  "Offer": "19,448 Ratings & 1,293 Reviews",
+  "Total Ratings": "18% off",
+  "Total Reviews": "19,448"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a42"
+  },
+  "Name": "REDMI 13C 5G (Startrail Silver, 256 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹13,999",
+  "Actual_Price": "₹17,999",
+  "Offer": "2,777 Ratings & 161 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "2,777"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a43"
+  },
+  "Name": "realme C51 (Carbon Black, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹9,499",
+  "Actual_Price": "₹11,999",
+  "Offer": "84,230 Ratings & 3,617 Reviews",
+  "Total Ratings": "20% off",
+  "Total Reviews": "84,230"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a44"
+  },
+  "Name": "SAMSUNG Galaxy F34 5G (Mystic Green, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹14,999",
+  "Actual_Price": "₹25,999",
+  "Offer": "8,220 Ratings & 671 Reviews",
+  "Total Ratings": "42% off",
+  "Total Reviews": "8,220"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a45"
+  },
+  "Name": "realme C51 (Mint Green, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹9,499",
+  "Actual_Price": "₹11,999",
+  "Offer": "84,230 Ratings & 3,617 Reviews",
+  "Total Ratings": "20% off",
+  "Total Reviews": "84,230"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a46"
+  },
+  "Name": "Nokia 105 Single SIM, Keypad Mobile Phone with Wireless FM Radio",
+  "Rating": 4.1,
+  "Sales_Price": "₹1,291",
+  "Actual_Price": "₹1,800",
+  "Offer": "1,01,278 Ratings & 6,405 Reviews",
+  "Total Ratings": "28% off",
+  "Total Reviews": "1,01,278"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a47"
+  },
+  "Name": "OnePlus Nord CE4 (Dark Chrome, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹24,668",
+  "Actual_Price": "₹24,999",
+  "Offer": "5,739 Ratings & 326 Reviews",
+  "Total Ratings": "1% off",
+  "Total Reviews": "5,739"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a48"
+  },
+  "Name": "Infinix SMART 8 (Timber Black, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹7,999",
+  "Actual_Price": "₹10,999",
+  "Offer": "6,173 Ratings & 395 Reviews",
+  "Total Ratings": "27% off",
+  "Total Reviews": "6,173"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a49"
+  },
+  "Name": "Motorola Edge 50 Fusion (Marshmallow Blue, 128 GB)",
+  "Rating": 4.5,
+  "Sales_Price": "₹22,999",
+  "Actual_Price": "₹25,999",
+  "Offer": "7,679 Ratings & 433 Reviews",
+  "Total Ratings": "11% off",
+  "Total Reviews": "7,679"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a4a"
+  },
+  "Name": "OnePlus Nord CE4 (Celadon Marble, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹24,620",
+  "Actual_Price": "₹24,999",
+  "Offer": "5,739 Ratings & 326 Reviews",
+  "Total Ratings": "1% off",
+  "Total Reviews": "5,739"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a4b"
+  },
+  "Name": "Kechaoda K112",
+  "Rating": 4,
+  "Sales_Price": "₹1,539",
+  "Actual_Price": "₹1,999",
+  "Offer": "26,173 Ratings & 2,563 Reviews",
+  "Total Ratings": "23% off",
+  "Total Reviews": "26,173"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a4c"
+  },
+  "Name": "Kechaoda K112",
+  "Rating": 4,
+  "Sales_Price": "₹1,544",
+  "Actual_Price": "₹1,999",
+  "Offer": "26,173 Ratings & 2,563 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "26,173"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a4d"
+  },
+  "Name": "POCO C50 (Royal Blue, 32 GB)",
+  "Rating": 4.1,
+  "Sales_Price": "₹5,999",
+  "Actual_Price": "₹9,999",
+  "Offer": "23,222 Ratings & 1,405 Reviews",
+  "Total Ratings": "40% off",
+  "Total Reviews": "23,222"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a4e"
+  },
+  "Name": "realme C65 5G (Glowing Black, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹12,499",
+  "Actual_Price": "₹15,999",
+  "Offer": "1,943 Ratings & 49 Reviews",
+  "Total Ratings": "21% off",
+  "Total Reviews": "1,943"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a4f"
+  },
+  "Name": "realme C51 (Mint Green, 64 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹8,999",
+  "Actual_Price": "₹10,999",
+  "Offer": "84,230 Ratings & 3,617 Reviews",
+  "Total Ratings": "18% off",
+  "Total Reviews": "84,230"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a50"
+  },
+  "Name": "REDMI 13C 5G (Starlight Black, 256 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹13,999",
+  "Actual_Price": "₹17,999",
+  "Offer": "2,777 Ratings & 161 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "2,777"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a51"
+  },
+  "Name": "Motorola g04s (Sea Green, 64 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹6,999",
+  "Actual_Price": "₹9,999",
+  "Offer": "507 Ratings & 50 Reviews",
+  "Total Ratings": "30% off",
+  "Total Reviews": "507"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a52"
+  },
+  "Name": "POCO X6 Neo 5G (Horizon Blue, 256 GB)",
+  "Rating": 4.1,
+  "Sales_Price": "₹15,999",
+  "Actual_Price": "₹21,999",
+  "Offer": "2,930 Ratings & 207 Reviews",
+  "Total Ratings": "27% off",
+  "Total Reviews": "2,930"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a53"
+  },
+  "Name": "Motorola Edge 50 Pro 5G with 68W Charger (Luxe Lavender, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹29,999",
+  "Actual_Price": "₹36,999",
+  "Offer": "13,164 Ratings & 1,229 Reviews",
+  "Total Ratings": "18% off",
+  "Total Reviews": "13,164"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a54"
+  },
+  "Name": "Motorola Edge 50 Pro 5G with 125W Charger (Black Beauty, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹34,999",
+  "Actual_Price": "₹41,999",
+  "Offer": "4,532 Ratings & 422 Reviews",
+  "Total Ratings": "16% off",
+  "Total Reviews": "4,532"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a55"
+  },
+  "Name": "Infinix Smart 8 Plus (Timber Black, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹7,799",
+  "Actual_Price": "₹9,999",
+  "Offer": "3,429 Ratings & 242 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "3,429"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a56"
+  },
+  "Name": "Infinix Smart 8 Plus (Galaxy White, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹7,799",
+  "Actual_Price": "₹9,999",
+  "Offer": "3,429 Ratings & 242 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "3,429"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a57"
+  },
+  "Name": "Infinix Smart 8 Plus (Shiny Gold, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹7,799",
+  "Actual_Price": "₹9,999",
+  "Offer": "3,429 Ratings & 242 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "3,429"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a58"
+  },
+  "Name": "Motorola g14 (Sky Blue, 128 GB)",
+  "Rating": 4.1,
+  "Sales_Price": "₹8,499",
+  "Actual_Price": "₹12,999",
+  "Offer": "47,991 Ratings & 4,070 Reviews",
+  "Total Ratings": "34% off",
+  "Total Reviews": "47,991"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a59"
+  },
+  "Name": "REDMI 12 5G (Jade Black, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹12,499",
+  "Actual_Price": "₹17,999",
+  "Offer": "31,624 Ratings & 1,598 Reviews",
+  "Total Ratings": "30% off",
+  "Total Reviews": "31,624"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a5a"
+  },
+  "Name": "Jio B1",
+  "Rating": 3.6,
+  "Sales_Price": "₹1,599",
+  "Actual_Price": "₹2,599",
+  "Offer": "838 Ratings & 37 Reviews",
+  "Total Ratings": "38% off",
+  "Total Reviews": "838"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a5b"
+  },
+  "Name": "OnePlus Nord CE4 (Celadon Marble, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹26,722",
+  "Actual_Price": "₹26,999",
+  "Offer": "5,739 Ratings & 326 Reviews",
+  "Total Ratings": "1% off",
+  "Total Reviews": "5,739"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a5c"
+  },
+  "Name": "OnePlus Nord CE4 (Dark Chrome, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹26,787",
+  "Actual_Price": "₹26,999",
+  "Offer": "5,739 Ratings & 326 Reviews",
+  "Total Ratings": "No Offer",
+  "Total Reviews": "5,739"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a5d"
+  },
+  "Name": "realme 12 Pro 5G (Submarine Blue, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹25,999",
+  "Actual_Price": "₹29,999",
+  "Offer": "16,299 Ratings & 1,831 Reviews",
+  "Total Ratings": "13% off",
+  "Total Reviews": "16,299"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a5e"
+  },
+  "Name": "Motorola Edge 50 Pro 5G with 125W Charger (Black Beauty, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹34,999",
+  "Actual_Price": "₹41,999",
+  "Offer": "4,532 Ratings & 422 Reviews",
+  "Total Ratings": "16% off",
+  "Total Reviews": "4,532"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a5f"
+  },
+  "Name": "Motorola Edge 50 Pro 5G with 68W Charger (Luxe Lavender, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹29,999",
+  "Actual_Price": "₹36,999",
+  "Offer": "13,164 Ratings & 1,229 Reviews",
+  "Total Ratings": "18% off",
+  "Total Reviews": "13,164"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a60"
+  },
+  "Name": "realme C53 (Champion Black, 64 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹10,999",
+  "Actual_Price": "₹12,999",
+  "Offer": "1,24,848 Ratings & 5,741 Reviews",
+  "Total Ratings": "15% off",
+  "Total Reviews": "1,24,848"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a61"
+  },
+  "Name": "Jio B1",
+  "Rating": 3.6,
+  "Sales_Price": "₹1,599",
+  "Actual_Price": "₹2,599",
+  "Offer": "838 Ratings & 37 Reviews",
+  "Total Ratings": "38% off",
+  "Total Reviews": "838"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a62"
+  },
+  "Name": "Apple iPhone 14 Plus (Purple, 128 GB)",
+  "Rating": 4.6,
+  "Sales_Price": "₹61,999",
+  "Actual_Price": "₹79,900",
+  "Offer": "68,421 Ratings & 3,944 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "68,421"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a63"
+  },
+  "Name": "LAVA Hero 600i Sapphire Blue",
+  "Rating": 4,
+  "Sales_Price": "₹839",
+  "Actual_Price": "₹1,199",
+  "Offer": "1,728 Ratings & 112 Reviews",
+  "Total Ratings": "30% off",
+  "Total Reviews": "1,728"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a64"
+  },
+  "Name": "realme C53 (Champion Black, 128 GB)",
+  "Rating": 4.1,
+  "Sales_Price": "₹9,999",
+  "Actual_Price": "₹11,999",
+  "Offer": "22,617 Ratings & 1,522 Reviews",
+  "Total Ratings": "16% off",
+  "Total Reviews": "22,617"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a65"
+  },
+  "Name": "OnePlus 11R 5G (Galactic Silver, 256 GB)",
+  "Rating": 4.5,
+  "Sales_Price": "₹35,460",
+  "Actual_Price": "₹44,999",
+  "Offer": "11,962 Ratings & 844 Reviews",
+  "Total Ratings": "21% off",
+  "Total Reviews": "11,962"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a66"
+  },
+  "Name": "Infinix SMART 8 HD (Shiny Gold, 64 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹6,999",
+  "Actual_Price": "₹8,999",
+  "Offer": "159 Ratings & 4 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "159"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a67"
+  },
+  "Name": "Motorola g64 5G (Mint Green, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹13,999",
+  "Actual_Price": "₹17,999",
+  "Offer": "8,189 Ratings & 443 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "8,189"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a68"
+  },
+  "Name": "Motorola g04s (Sea Green, 64 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹6,999",
+  "Actual_Price": "₹9,999",
+  "Offer": "507 Ratings & 50 Reviews",
+  "Total Ratings": "30% off",
+  "Total Reviews": "507"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a69"
+  },
+  "Name": "Motorola Edge 50 Fusion (Hot Pink, 128 GB)",
+  "Rating": 4.5,
+  "Sales_Price": "₹22,999",
+  "Actual_Price": "₹25,999",
+  "Offer": "7,679 Ratings & 433 Reviews",
+  "Total Ratings": "11% off",
+  "Total Reviews": "7,679"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a6a"
+  },
+  "Name": "realme C53 (Champion Gold, 64 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹10,999",
+  "Actual_Price": "₹12,999",
+  "Offer": "1,24,848 Ratings & 5,741 Reviews",
+  "Total Ratings": "15% off",
+  "Total Reviews": "1,24,848"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a6b"
+  },
+  "Name": "SAMSUNG Galaxy F34 5G (Electric Black, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹14,999",
+  "Actual_Price": "₹25,999",
+  "Offer": "8,220 Ratings & 671 Reviews",
+  "Total Ratings": "42% off",
+  "Total Reviews": "8,220"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a6c"
+  },
+  "Name": "realme C53 (Champion Gold, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹11,999",
+  "Actual_Price": "₹13,999",
+  "Offer": "1,24,848 Ratings & 5,741 Reviews",
+  "Total Ratings": "14% off",
+  "Total Reviews": "1,24,848"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a6d"
+  },
+  "Name": "realme 12 Pro 5G (Navigator Beige, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹24,999",
+  "Actual_Price": "₹33,999",
+  "Offer": "3,129 Ratings & 189 Reviews",
+  "Total Ratings": "26% off",
+  "Total Reviews": "3,129"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a6e"
+  },
+  "Name": "Motorola Edge 40 Neo (Peach Fuzz, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹22,999",
+  "Actual_Price": "₹27,999",
+  "Offer": "49,386 Ratings & 5,461 Reviews",
+  "Total Ratings": "17% off",
+  "Total Reviews": "49,386"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a6f"
+  },
+  "Name": "LAVA A3 Vibe DS Keypad Mobile| 1750 mAh Battery|Expandable Storage 32GB",
+  "Rating": 4.2,
+  "Sales_Price": "₹1,199",
+  "Actual_Price": "₹1,649",
+  "Offer": "925 Ratings & 78 Reviews",
+  "Total Ratings": "27% off",
+  "Total Reviews": "925"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a70"
+  },
+  "Name": "realme 12 Pro 5G (Submarine Blue, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹26,999",
+  "Actual_Price": "₹31,999",
+  "Offer": "16,299 Ratings & 1,831 Reviews",
+  "Total Ratings": "15% off",
+  "Total Reviews": "16,299"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a71"
+  },
+  "Name": "vivo T2x 5G (Glimmer Black, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹15,999",
+  "Actual_Price": "₹18,999",
+  "Offer": "4,18,238 Ratings & 22,955 Reviews",
+  "Total Ratings": "15% off",
+  "Total Reviews": "4,18,238"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a72"
+  },
+  "Name": "MOTOROLA G04 (Concord Black, 128 GB)",
+  "Rating": 4.1,
+  "Sales_Price": "₹7,999",
+  "Actual_Price": "₹10,999",
+  "Offer": "5,086 Ratings & 415 Reviews",
+  "Total Ratings": "27% off",
+  "Total Reviews": "5,086"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a73"
+  },
+  "Name": "MOTOROLA G04 (Concord Black, 128 GB)",
+  "Rating": 4.1,
+  "Sales_Price": "₹7,999",
+  "Actual_Price": "₹10,999",
+  "Offer": "5,086 Ratings & 415 Reviews",
+  "Total Ratings": "27% off",
+  "Total Reviews": "5,086"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a74"
+  },
+  "Name": "vivo T2x 5G (Glimmer Black, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹15,999",
+  "Actual_Price": "₹18,999",
+  "Offer": "4,18,238 Ratings & 22,955 Reviews",
+  "Total Ratings": "15% off",
+  "Total Reviews": "4,18,238"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a75"
+  },
+  "Name": "realme C65 5G (Feather Green, 64 GB)",
+  "Rating": 4.1,
+  "Sales_Price": "₹10,499",
+  "Actual_Price": "₹13,999",
+  "Offer": "1,007 Ratings & 47 Reviews",
+  "Total Ratings": "25% off",
+  "Total Reviews": "1,007"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a76"
+  },
+  "Name": "realme 12 Pro 5G (Navigator Beige, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹26,999",
+  "Actual_Price": "₹31,999",
+  "Offer": "16,299 Ratings & 1,831 Reviews",
+  "Total Ratings": "15% off",
+  "Total Reviews": "16,299"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a77"
+  },
+  "Name": "OnePlus Nord CE4 (Dark Chrome, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹26,819",
+  "Actual_Price": "₹26,999",
+  "Offer": "5,739 Ratings & 326 Reviews",
+  "Total Ratings": "No Offer",
+  "Total Reviews": "5,739"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a78"
+  },
+  "Name": "itel it5330 | 2.8 inch Big Display | 1900 mAh Battery | Kingvoice",
+  "Rating": 3.9,
+  "Sales_Price": "₹1,498",
+  "Actual_Price": "₹1,799",
+  "Offer": "1,084 Ratings & 68 Reviews",
+  "Total Ratings": "16% off",
+  "Total Reviews": "1,084"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a79"
+  },
+  "Name": "itel it5330 | 2.8 inch Big Display | 1900 mAh Battery | Kingvoice",
+  "Rating": 3.9,
+  "Sales_Price": "₹1,490",
+  "Actual_Price": "₹1,599",
+  "Offer": "1,084 Ratings & 68 Reviews",
+  "Total Ratings": "6% off",
+  "Total Reviews": "1,084"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a7a"
+  },
+  "Name": "LAVA Gem Power Dual Sim Keypad Phone|2575 mAh Battery| Expandable Upto 32 MB",
+  "Rating": 4.1,
+  "Sales_Price": "₹1,489",
+  "Actual_Price": "₹2,099",
+  "Offer": "1,089 Ratings & 92 Reviews",
+  "Total Ratings": "29% off",
+  "Total Reviews": "1,089"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a7b"
+  },
+  "Name": "Nothing Phone (2a) 5G (Black, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹27,999",
+  "Actual_Price": "₹29,999",
+  "Offer": "3,946 Ratings & 453 Reviews",
+  "Total Ratings": "6% off",
+  "Total Reviews": "3,946"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a7c"
+  },
+  "Name": "Nothing Phone (2a) 5G (Special Edition, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹27,999",
+  "Actual_Price": "₹29,999",
+  "Offer": "3,946 Ratings & 453 Reviews",
+  "Total Ratings": "6% off",
+  "Total Reviews": "3,946"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a7d"
+  },
+  "Name": "Nothing Phone (2a) 5G (Black, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹25,999",
+  "Actual_Price": "₹27,999",
+  "Offer": "31,567 Ratings & 3,586 Reviews",
+  "Total Ratings": "7% off",
+  "Total Reviews": "31,567"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a7e"
+  },
+  "Name": "REDMI 12 (Moonstone Silver, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹9,499",
+  "Actual_Price": "₹14,999",
+  "Offer": "1,01,106 Ratings & 5,441 Reviews",
+  "Total Ratings": "36% off",
+  "Total Reviews": "1,01,106"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a7f"
+  },
+  "Name": "SAMSUNG Galaxy F14 5G (GOAT Green, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹8,990",
+  "Actual_Price": "₹17,490",
+  "Offer": "42,991 Ratings & 2,867 Reviews",
+  "Total Ratings": "48% off",
+  "Total Reviews": "42,991"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a80"
+  },
+  "Name": "realme 12 Pro 5G (Submarine Blue, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹25,999",
+  "Actual_Price": "₹29,999",
+  "Offer": "16,299 Ratings & 1,831 Reviews",
+  "Total Ratings": "13% off",
+  "Total Reviews": "16,299"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a81"
+  },
+  "Name": "REDMI 13C 5G (Startrail Green, 256 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹13,999",
+  "Actual_Price": "₹17,999",
+  "Offer": "2,777 Ratings & 161 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "2,777"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a82"
+  },
+  "Name": "Nothing Phone (2a) 5G (White, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹25,999",
+  "Actual_Price": "₹27,999",
+  "Offer": "31,567 Ratings & 3,586 Reviews",
+  "Total Ratings": "7% off",
+  "Total Reviews": "31,567"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a83"
+  },
+  "Name": "SAMSUNG Galaxy S23 FE (Graphite, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹35,999",
+  "Actual_Price": "₹79,999",
+  "Offer": "5,582 Ratings & 371 Reviews",
+  "Total Ratings": "55% off",
+  "Total Reviews": "5,582"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a84"
+  },
+  "Name": "POCO X6 5G (Snowstorm White, 256 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹19,999",
+  "Actual_Price": "₹26,999",
+  "Offer": "2,434 Ratings & 300 Reviews",
+  "Total Ratings": "25% off",
+  "Total Reviews": "2,434"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a85"
+  },
+  "Name": "TARA MOBILE T5",
+  "Rating": 3.7,
+  "Sales_Price": "₹538",
+  "Actual_Price": "₹999",
+  "Offer": "36 Ratings & 10 Reviews",
+  "Total Ratings": "46% off",
+  "Total Reviews": "36"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a86"
+  },
+  "Name": "realme 12x 5G (Woodland Green, 128 GB)",
+  "Rating": 4,
+  "Sales_Price": "₹11,999",
+  "Actual_Price": "₹16,999",
+  "Offer": "4,679 Ratings & 324 Reviews",
+  "Total Ratings": "29% off",
+  "Total Reviews": "4,679"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a87"
+  },
+  "Name": "realme 12x 5G (Twilight Purple, 128 GB)",
+  "Rating": 4,
+  "Sales_Price": "₹11,999",
+  "Actual_Price": "₹16,999",
+  "Offer": "4,679 Ratings & 324 Reviews",
+  "Total Ratings": "29% off",
+  "Total Reviews": "4,679"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a88"
+  },
+  "Name": "OnePlus 11R 5G (Sonic Black, 256 GB)",
+  "Rating": 4.5,
+  "Sales_Price": "₹36,472",
+  "Actual_Price": "₹44,999",
+  "Offer": "11,962 Ratings & 844 Reviews",
+  "Total Ratings": "18% off",
+  "Total Reviews": "11,962"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a89"
+  },
+  "Name": "Nothing Phone (2a) 5G (White, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹23,999",
+  "Actual_Price": "₹25,999",
+  "Offer": "31,567 Ratings & 3,586 Reviews",
+  "Total Ratings": "7% off",
+  "Total Reviews": "31,567"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a8a"
+  },
+  "Name": "Nothing Phone (2a) 5G (Black, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹23,999",
+  "Actual_Price": "₹25,999",
+  "Offer": "31,567 Ratings & 3,586 Reviews",
+  "Total Ratings": "7% off",
+  "Total Reviews": "31,567"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a8b"
+  },
+  "Name": "OnePlus 11R 5G (Galactic Silver, 256 GB)",
+  "Rating": 4.5,
+  "Sales_Price": "₹35,460",
+  "Actual_Price": "₹44,999",
+  "Offer": "11,962 Ratings & 844 Reviews",
+  "Total Ratings": "21% off",
+  "Total Reviews": "11,962"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a8c"
+  },
+  "Name": "itel Magic X Pro 4G| 2500mAh Big Battery| Expandable Storage upto 64GB",
+  "Rating": 3.9,
+  "Sales_Price": "₹1,899",
+  "Actual_Price": "₹3,099",
+  "Offer": "11,341 Ratings & 1,140 Reviews",
+  "Total Ratings": "38% off",
+  "Total Reviews": "11,341"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a8d"
+  },
+  "Name": "Nothing Phone (2a) 5G (Blue, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹27,999",
+  "Actual_Price": "₹29,999",
+  "Offer": "3,946 Ratings & 453 Reviews",
+  "Total Ratings": "6% off",
+  "Total Reviews": "3,946"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a8e"
+  },
+  "Name": "Tecno Spark 20 (Gravity Black, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹8,499",
+  "Actual_Price": "₹12,999",
+  "Offer": "213 Ratings & 5 Reviews",
+  "Total Ratings": "34% off",
+  "Total Reviews": "213"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a8f"
+  },
+  "Name": "POCO C65 (Pastel Green, 256 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹8,499",
+  "Actual_Price": "₹13,499",
+  "Offer": "6,589 Ratings & 384 Reviews",
+  "Total Ratings": "37% off",
+  "Total Reviews": "6,589"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a90"
+  },
+  "Name": "Apple iPhone 15 (Green, 128 GB)",
+  "Rating": 4.6,
+  "Sales_Price": "₹63,999",
+  "Actual_Price": "₹79,900",
+  "Offer": "36,600 Ratings & 2,086 Reviews",
+  "Total Ratings": "19% off",
+  "Total Reviews": "36,600"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a91"
+  },
+  "Name": "Nokia 105 Single SIM, Keypad Mobile Phone with Wireless FM Radio",
+  "Rating": 4.1,
+  "Sales_Price": "₹1,299",
+  "Actual_Price": "₹1,399",
+  "Offer": "1,01,278 Ratings & 6,405 Reviews",
+  "Total Ratings": "7% off",
+  "Total Reviews": "1,01,278"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a92"
+  },
+  "Name": "itel it5330 | 2.8 inch Big Display | 1900 mAh Battery | Kingvoice",
+  "Rating": 3.9,
+  "Sales_Price": "₹1,524",
+  "Actual_Price": "₹1,799",
+  "Offer": "1,084 Ratings & 68 Reviews",
+  "Total Ratings": "15% off",
+  "Total Reviews": "1,084"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a93"
+  },
+  "Name": "Nokia 150 Dual Sim Keypad Mobile,Wireless FM radio, Bluetooth, MP3 player",
+  "Rating": 4,
+  "Sales_Price": "₹1,690",
+  "Actual_Price": "₹3,072",
+  "Offer": "15,235 Ratings & 1,052 Reviews",
+  "Total Ratings": "44% off",
+  "Total Reviews": "15,235"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a94"
+  },
+  "Name": "Motorola g84 5G (Viva Magenta, 256 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹18,999",
+  "Actual_Price": "₹22,999",
+  "Offer": "46,551 Ratings & 4,609 Reviews",
+  "Total Ratings": "17% off",
+  "Total Reviews": "46,551"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a95"
+  },
+  "Name": "OnePlus 11R 5G (Galactic Silver, 128 GB)",
+  "Rating": 4.5,
+  "Sales_Price": "₹30,988",
+  "Actual_Price": "₹39,999",
+  "Offer": "7,292 Ratings & 592 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "7,292"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a96"
+  },
+  "Name": "vivo T2x 5G (Glimmer Black, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹14,999",
+  "Actual_Price": "₹20,999",
+  "Offer": "71,527 Ratings & 4,222 Reviews",
+  "Total Ratings": "28% off",
+  "Total Reviews": "71,527"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a97"
+  },
+  "Name": "realme C65 5G (Glowing Black, 64 GB)",
+  "Rating": 4.1,
+  "Sales_Price": "₹10,499",
+  "Actual_Price": "₹13,999",
+  "Offer": "1,007 Ratings & 47 Reviews",
+  "Total Ratings": "25% off",
+  "Total Reviews": "1,007"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a98"
+  },
+  "Name": "vivo T2x 5G (Black Gladiator, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹14,999",
+  "Actual_Price": "₹20,999",
+  "Offer": "71,527 Ratings & 4,222 Reviews",
+  "Total Ratings": "28% off",
+  "Total Reviews": "71,527"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a99"
+  },
+  "Name": "vivo T2x 5G (Black Gladiator, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹12,999",
+  "Actual_Price": "₹18,999",
+  "Offer": "4,18,238 Ratings & 22,955 Reviews",
+  "Total Ratings": "31% off",
+  "Total Reviews": "4,18,238"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a9a"
+  },
+  "Name": "vivo T2x 5G (Marine Blue, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹12,999",
+  "Actual_Price": "₹18,999",
+  "Offer": "4,18,238 Ratings & 22,955 Reviews",
+  "Total Ratings": "31% off",
+  "Total Reviews": "4,18,238"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a9b"
+  },
+  "Name": "vivo T2x 5G (Sunstone Orange, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹12,999",
+  "Actual_Price": "₹18,999",
+  "Offer": "4,18,238 Ratings & 22,955 Reviews",
+  "Total Ratings": "31% off",
+  "Total Reviews": "4,18,238"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a9c"
+  },
+  "Name": "vivo T2x 5G (Aurora Gold, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹12,999",
+  "Actual_Price": "₹18,999",
+  "Offer": "4,18,238 Ratings & 22,955 Reviews",
+  "Total Ratings": "31% off",
+  "Total Reviews": "4,18,238"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a9d"
+  },
+  "Name": "Apple iPhone 14 Plus (Purple, 128 GB)",
+  "Rating": 4.6,
+  "Sales_Price": "₹61,999",
+  "Actual_Price": "₹79,900",
+  "Offer": "68,421 Ratings & 3,944 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "68,421"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a9e"
+  },
+  "Name": "LAVA Z3 Pro (Striped Blue, 32 GB)",
+  "Rating": 4,
+  "Sales_Price": "₹6,090",
+  "Actual_Price": "₹8,499",
+  "Offer": "1,544 Ratings & 182 Reviews",
+  "Total Ratings": "28% off",
+  "Total Reviews": "1,544"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581a9f"
+  },
+  "Name": "vivo T2x 5G (Marine Blue, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹11,999",
+  "Actual_Price": "₹17,999",
+  "Offer": "1,75,683 Ratings & 9,158 Reviews",
+  "Total Ratings": "33% off",
+  "Total Reviews": "1,75,683"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581aa0"
+  },
+  "Name": "vivo T2x 5G (Marine Blue, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹14,999",
+  "Actual_Price": "₹20,999",
+  "Offer": "71,527 Ratings & 4,222 Reviews",
+  "Total Ratings": "28% off",
+  "Total Reviews": "71,527"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581aa1"
+  },
+  "Name": "itel it5027",
+  "Rating": 4,
+  "Sales_Price": "₹1,169",
+  "Actual_Price": "₹1,499",
+  "Offer": "392 Ratings & 30 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "392"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581aa2"
+  },
+  "Name": "OnePlus Nord 3 5G (Tempest Gray, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹36,000",
+  "Actual_Price": "₹37,999",
+  "Offer": "1,507 Ratings & 134 Reviews",
+  "Total Ratings": "5% off",
+  "Total Reviews": "1,507"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581aa3"
+  },
+  "Name": "POCO C55 (Power Black, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹7,999",
+  "Actual_Price": "₹13,999",
+  "Offer": "1,37,815 Ratings & 8,313 Reviews",
+  "Total Ratings": "42% off",
+  "Total Reviews": "1,37,815"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581aa4"
+  },
+  "Name": "POCO C65 (Pastel Green, 256 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹8,499",
+  "Actual_Price": "₹13,499",
+  "Offer": "6,589 Ratings & 384 Reviews",
+  "Total Ratings": "37% off",
+  "Total Reviews": "6,589"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581aa5"
+  },
+  "Name": "Motorola G32 (Satin Silver, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹10,999",
+  "Actual_Price": "₹18,999",
+  "Offer": "1,20,421 Ratings & 9,884 Reviews",
+  "Total Ratings": "42% off",
+  "Total Reviews": "1,20,421"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581aa6"
+  },
+  "Name": "Nokia TA-1304/105 SS",
+  "Rating": 4.2,
+  "Sales_Price": "₹1,099",
+  "Actual_Price": "₹1,399",
+  "Offer": "63,006 Ratings & 4,852 Reviews",
+  "Total Ratings": "21% off",
+  "Total Reviews": "63,006"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581aa7"
+  },
+  "Name": "Nothing Phone (2a) 5G (Black, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹25,999",
+  "Actual_Price": "₹27,999",
+  "Offer": "31,567 Ratings & 3,586 Reviews",
+  "Total Ratings": "7% off",
+  "Total Reviews": "31,567"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581aa8"
+  },
+  "Name": "itel Aura 05i|Leather Finish|4000 Mah Battery|Type C Charging Support (Crystal Blue, 32 GB)",
+  "Rating": 4.1,
+  "Sales_Price": "₹5,584",
+  "Actual_Price": "₹6,799",
+  "Offer": "418 Ratings & 11 Reviews",
+  "Total Ratings": "17% off",
+  "Total Reviews": "418"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581aa9"
+  },
+  "Name": "vivo T2x 5G (Aurora Gold, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹11,999",
+  "Actual_Price": "₹17,999",
+  "Offer": "1,75,683 Ratings & 9,158 Reviews",
+  "Total Ratings": "33% off",
+  "Total Reviews": "1,75,683"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581aaa"
+  },
+  "Name": "KARBONN K531 Dual Sim Keypad Phone|1750 mAh Battery|0.3MP Camera|Expandable Upto 32 GB",
+  "Rating": 3.9,
+  "Sales_Price": "₹1,294",
+  "Actual_Price": "₹1,790",
+  "Offer": "1,253 Ratings & 104 Reviews",
+  "Total Ratings": "27% off",
+  "Total Reviews": "1,253"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581aab"
+  },
+  "Name": "Nothing Phone (2a) 5G (Black, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹23,999",
+  "Actual_Price": "₹25,999",
+  "Offer": "31,567 Ratings & 3,586 Reviews",
+  "Total Ratings": "7% off",
+  "Total Reviews": "31,567"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581aac"
+  },
+  "Name": "Nothing Phone (2a) 5G (White, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹23,999",
+  "Actual_Price": "₹25,999",
+  "Offer": "31,567 Ratings & 3,586 Reviews",
+  "Total Ratings": "7% off",
+  "Total Reviews": "31,567"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581aad"
+  },
+  "Name": "Motorola Edge 50 Pro 5G with 125W Charger (Luxe Lavender, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹34,999",
+  "Actual_Price": "₹41,999",
+  "Offer": "4,532 Ratings & 422 Reviews",
+  "Total Ratings": "16% off",
+  "Total Reviews": "4,532"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581aae"
+  },
+  "Name": "Nothing Phone (2a) 5G (White, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹27,999",
+  "Actual_Price": "₹29,999",
+  "Offer": "3,946 Ratings & 453 Reviews",
+  "Total Ratings": "6% off",
+  "Total Reviews": "3,946"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581aaf"
+  },
+  "Name": "SAMSUNG Galaxy F14 5G (OMG Black, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹8,990",
+  "Actual_Price": "₹17,490",
+  "Offer": "42,991 Ratings & 2,867 Reviews",
+  "Total Ratings": "48% off",
+  "Total Reviews": "42,991"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ab0"
+  },
+  "Name": "REDMI Note 13 5G (Arctic White, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹16,498",
+  "Actual_Price": "₹20,999",
+  "Offer": "6,782 Ratings & 447 Reviews",
+  "Total Ratings": "21% off",
+  "Total Reviews": "6,782"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ab1"
+  },
+  "Name": "KARBONN K531 Dual Sim Keypad Phone|1750 mAh Battery|0.3MP Camera|Expandable Upto 32 GB",
+  "Rating": 3.9,
+  "Sales_Price": "₹1,289",
+  "Actual_Price": "₹1,790",
+  "Offer": "1,253 Ratings & 104 Reviews",
+  "Total Ratings": "27% off",
+  "Total Reviews": "1,253"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ab2"
+  },
+  "Name": "Apple iPhone 15 (Black, 128 GB)",
+  "Rating": 4.6,
+  "Sales_Price": "₹63,999",
+  "Actual_Price": "₹79,900",
+  "Offer": "36,600 Ratings & 2,086 Reviews",
+  "Total Ratings": "19% off",
+  "Total Reviews": "36,600"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ab3"
+  },
+  "Name": "REDMI Note 13 5G (Stealth Black, 256 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹19,490",
+  "Actual_Price": "₹24,999",
+  "Offer": "1,159 Ratings & 85 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "1,159"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ab4"
+  },
+  "Name": "Kechaoda A26",
+  "Rating": 4,
+  "Sales_Price": "₹968",
+  "Actual_Price": "₹1,499",
+  "Offer": "21,523 Ratings & 1,366 Reviews",
+  "Total Ratings": "35% off",
+  "Total Reviews": "21,523"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ab5"
+  },
+  "Name": "OnePlus Nord 3 5G (Misty Green, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹20,885",
+  "Actual_Price": "₹33,999",
+  "Offer": "8,485 Ratings & 761 Reviews",
+  "Total Ratings": "38% off",
+  "Total Reviews": "8,485"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ab6"
+  },
+  "Name": "Motorola g64 5G (Ice Lilac, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹13,999",
+  "Actual_Price": "₹17,999",
+  "Offer": "8,189 Ratings & 443 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "8,189"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ab7"
+  },
+  "Name": "LAVA A1 Josh BOL Keypad Mobile|1000 mAh Battery|Expandable Storage 32GB",
+  "Rating": 4,
+  "Sales_Price": "₹1,079",
+  "Actual_Price": "₹1,449",
+  "Offer": "5,182 Ratings & 260 Reviews",
+  "Total Ratings": "25% off",
+  "Total Reviews": "5,182"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ab8"
+  },
+  "Name": "vivo Y27 (Garden Green, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹10,827",
+  "Actual_Price": "₹18,999",
+  "Offer": "1,893 Ratings & 88 Reviews",
+  "Total Ratings": "43% off",
+  "Total Reviews": "1,893"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ab9"
+  },
+  "Name": "SAMSUNG Galaxy M14 5G (Icy Silver, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹12,475",
+  "Actual_Price": "₹18,990",
+  "Offer": "22,793 Ratings & 1,489 Reviews",
+  "Total Ratings": "34% off",
+  "Total Reviews": "22,793"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581aba"
+  },
+  "Name": "SAMSUNG GT 1200 R/I/M",
+  "Rating": 3.3,
+  "Sales_Price": "₹1,030",
+  "Actual_Price": "₹1,999",
+  "Offer": "1,965 Ratings & 112 Reviews",
+  "Total Ratings": "48% off",
+  "Total Reviews": "1,965"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581abb"
+  },
+  "Name": "SAMSUNG GT 1200 R/I/M",
+  "Rating": 3.3,
+  "Sales_Price": "₹1,030",
+  "Actual_Price": "₹1,999",
+  "Offer": "1,965 Ratings & 112 Reviews",
+  "Total Ratings": "48% off",
+  "Total Reviews": "1,965"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581abc"
+  },
+  "Name": "SAMSUNG Metro 313",
+  "Rating": 3.5,
+  "Sales_Price": "₹1,619",
+  "Actual_Price": "₹2,699",
+  "Offer": "4,094 Ratings & 306 Reviews",
+  "Total Ratings": "40% off",
+  "Total Reviews": "4,094"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581abd"
+  },
+  "Name": "Snexian Rock",
+  "Rating": 3.9,
+  "Sales_Price": "₹1,368",
+  "Actual_Price": "₹1,999",
+  "Offer": "8,639 Ratings & 519 Reviews",
+  "Total Ratings": "31% off",
+  "Total Reviews": "8,639"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581abe"
+  },
+  "Name": "POCO X6 5G (Mirror Black, 256 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹19,999",
+  "Actual_Price": "₹26,999",
+  "Offer": "2,434 Ratings & 300 Reviews",
+  "Total Ratings": "25% off",
+  "Total Reviews": "2,434"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581abf"
+  },
+  "Name": "SAMSUNG Galaxy S23 FE (Mint, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹35,999",
+  "Actual_Price": "₹79,999",
+  "Offer": "5,582 Ratings & 371 Reviews",
+  "Total Ratings": "55% off",
+  "Total Reviews": "5,582"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ac0"
+  },
+  "Name": "vivo Y27 (Garden Green, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹10,827",
+  "Actual_Price": "₹18,999",
+  "Offer": "1,893 Ratings & 88 Reviews",
+  "Total Ratings": "43% off",
+  "Total Reviews": "1,893"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ac1"
+  },
+  "Name": "SAMSUNG Galaxy M14 5G (Smoky Teal, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹12,825",
+  "Actual_Price": "₹18,990",
+  "Offer": "22,793 Ratings & 1,489 Reviews",
+  "Total Ratings": "32% off",
+  "Total Reviews": "22,793"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ac2"
+  },
+  "Name": "REDMI 13C 5G (Starlight Black, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹11,999",
+  "Actual_Price": "₹15,999",
+  "Offer": "5,778 Ratings & 295 Reviews",
+  "Total Ratings": "25% off",
+  "Total Reviews": "5,778"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ac3"
+  },
+  "Name": "REDMI 13C 5G (Startrail Green, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹11,999",
+  "Actual_Price": "₹15,999",
+  "Offer": "5,778 Ratings & 295 Reviews",
+  "Total Ratings": "25% off",
+  "Total Reviews": "5,778"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ac4"
+  },
+  "Name": "OnePlus Nord CE 2 Lite 5G (Blue Tide, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹17,460",
+  "Actual_Price": "₹19,999",
+  "Offer": "1,59,056 Ratings & 10,782 Reviews",
+  "Total Ratings": "12% off",
+  "Total Reviews": "1,59,056"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ac5"
+  },
+  "Name": "OnePlus 11R 5G (Sonic Black, 128 GB)",
+  "Rating": 4.5,
+  "Sales_Price": "₹30,274",
+  "Actual_Price": "₹39,999",
+  "Offer": "7,292 Ratings & 592 Reviews",
+  "Total Ratings": "24% off",
+  "Total Reviews": "7,292"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ac6"
+  },
+  "Name": "Samsung Galaxy S21 FE 5G with Snapdragon 888 (Graphite, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹28,999",
+  "Actual_Price": "₹69,999",
+  "Offer": "1,41,619 Ratings & 13,684 Reviews",
+  "Total Ratings": "58% off",
+  "Total Reviews": "1,41,619"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ac7"
+  },
+  "Name": "Nokia 150 Dual Sim Keypad Mobile, Wireless FM radio, Bluetooth, MP3 player",
+  "Rating": 4.1,
+  "Sales_Price": "₹2,599",
+  "Actual_Price": "₹2,999",
+  "Offer": "26,447 Ratings & 1,951 Reviews",
+  "Total Ratings": "13% off",
+  "Total Reviews": "26,447"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ac8"
+  },
+  "Name": "LAVA A3 Vibe DS Keypad Mobile| 1750 mAh Battery|Expandable Storage 32GB",
+  "Rating": 4.1,
+  "Sales_Price": "₹1,199",
+  "Actual_Price": "₹1,649",
+  "Offer": "1,169 Ratings & 81 Reviews",
+  "Total Ratings": "27% off",
+  "Total Reviews": "1,169"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ac9"
+  },
+  "Name": "Tecno Spark 20 (Gravity Black, 256 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹8,999",
+  "Actual_Price": "₹13,999",
+  "Offer": "213 Ratings & 5 Reviews",
+  "Total Ratings": "35% off",
+  "Total Reviews": "213"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581aca"
+  },
+  "Name": "Tecno Spark 20 (Cyber White, 256 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹8,999",
+  "Actual_Price": "₹13,999",
+  "Offer": "213 Ratings & 5 Reviews",
+  "Total Ratings": "35% off",
+  "Total Reviews": "213"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581acb"
+  },
+  "Name": "POCO X6 5G (Mirror Black, 256 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹18,999",
+  "Actual_Price": "₹24,999",
+  "Offer": "10,287 Ratings & 1,345 Reviews",
+  "Total Ratings": "24% off",
+  "Total Reviews": "10,287"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581acc"
+  },
+  "Name": "vivo Y27 (Sea Blue, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹11,949",
+  "Actual_Price": "₹18,999",
+  "Offer": "1,893 Ratings & 88 Reviews",
+  "Total Ratings": "37% off",
+  "Total Reviews": "1,893"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581acd"
+  },
+  "Name": "POCO X6 Neo 5G (Astral Black, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹14,999",
+  "Actual_Price": "₹19,999",
+  "Offer": "6,276 Ratings & 578 Reviews",
+  "Total Ratings": "25% off",
+  "Total Reviews": "6,276"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ace"
+  },
+  "Name": "Nokia 105 DS 2020",
+  "Rating": 4.1,
+  "Sales_Price": "₹1,299",
+  "Actual_Price": "₹1,799",
+  "Offer": "28,521 Ratings & 2,103 Reviews",
+  "Total Ratings": "27% off",
+  "Total Reviews": "28,521"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581acf"
+  },
+  "Name": "SAMSUNG Galaxy F15 5G (Ash Black, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹14,499",
+  "Actual_Price": "₹16,999",
+  "Offer": "16,647 Ratings & 1,445 Reviews",
+  "Total Ratings": "14% off",
+  "Total Reviews": "16,647"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ad0"
+  },
+  "Name": "vivo T2x 5G (Glimmer Black, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹15,000",
+  "Actual_Price": "₹17,999",
+  "Offer": "1,75,683 Ratings & 9,158 Reviews",
+  "Total Ratings": "16% off",
+  "Total Reviews": "1,75,683"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ad1"
+  },
+  "Name": "itel A70 | 5000 mAh Battery |13MP Dual Rear Camera | Type C Charging (Azure Blue, 64 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹6,397",
+  "Actual_Price": "₹7,299",
+  "Offer": "797 Ratings & 40 Reviews",
+  "Total Ratings": "12% off",
+  "Total Reviews": "797"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ad2"
+  },
+  "Name": "itel Aura 05i|Leather Finish|4000 Mah Battery|Type C Charging Support (Crystal Blue, 32 GB)",
+  "Rating": 4.1,
+  "Sales_Price": "₹5,584",
+  "Actual_Price": "₹6,799",
+  "Offer": "418 Ratings & 11 Reviews",
+  "Total Ratings": "17% off",
+  "Total Reviews": "418"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ad3"
+  },
+  "Name": "Nokia 106 4G Keypad Mobile, Long-Lasting Battery, MicroSD Card Slot",
+  "Rating": 3.9,
+  "Sales_Price": "₹2,348",
+  "Actual_Price": "₹2,999",
+  "Offer": "2,096 Ratings & 157 Reviews",
+  "Total Ratings": "21% off",
+  "Total Reviews": "2,096"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ad4"
+  },
+  "Name": "REDMI A3 (Midnight Black, 128 GB)",
+  "Rating": 4.1,
+  "Sales_Price": "₹7,801",
+  "Actual_Price": "₹10,999",
+  "Offer": "459 Ratings & 24 Reviews",
+  "Total Ratings": "29% off",
+  "Total Reviews": "459"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ad5"
+  },
+  "Name": "Apple iPhone 15 (Blue, 256 GB)",
+  "Rating": 4.6,
+  "Sales_Price": "₹73,999",
+  "Actual_Price": "₹89,900",
+  "Offer": "36,600 Ratings & 2,086 Reviews",
+  "Total Ratings": "17% off",
+  "Total Reviews": "36,600"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ad6"
+  },
+  "Name": "OnePlus 12R (Cool Blue, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹41,880",
+  "Actual_Price": "₹45,999",
+  "Offer": "1,570 Ratings & 103 Reviews",
+  "Total Ratings": "8% off",
+  "Total Reviews": "1,570"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ad7"
+  },
+  "Name": "SAMSUNG Galaxy S23 FE (Mint, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹35,999",
+  "Actual_Price": "₹79,999",
+  "Offer": "5,582 Ratings & 371 Reviews",
+  "Total Ratings": "55% off",
+  "Total Reviews": "5,582"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ad8"
+  },
+  "Name": "Nokia 150 Dual Sim Keypad Mobile,Wireless FM radio, Bluetooth, MP3 player",
+  "Rating": 4,
+  "Sales_Price": "₹2,599",
+  "Actual_Price": "₹3,299",
+  "Offer": "15,235 Ratings & 1,052 Reviews",
+  "Total Ratings": "21% off",
+  "Total Reviews": "15,235"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ad9"
+  },
+  "Name": "POCO X6 5G (Mirror Black, 256 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹18,999",
+  "Actual_Price": "₹24,999",
+  "Offer": "10,287 Ratings & 1,345 Reviews",
+  "Total Ratings": "24% off",
+  "Total Reviews": "10,287"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ada"
+  },
+  "Name": "itel A70 | 5000 mAh Battery |13MP Dual Rear Camera | Type C Charging (Azure Blue, 64 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹6,476",
+  "Actual_Price": "₹7,299",
+  "Offer": "797 Ratings & 40 Reviews",
+  "Total Ratings": "11% off",
+  "Total Reviews": "797"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581adb"
+  },
+  "Name": "SAMSUNG Galaxy F15 5G (Ash Black, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹15,999",
+  "Actual_Price": "₹17,999",
+  "Offer": "1,416 Ratings & 72 Reviews",
+  "Total Ratings": "11% off",
+  "Total Reviews": "1,416"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581adc"
+  },
+  "Name": "IQOO Z9 (Brushed Green, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹19,000",
+  "Actual_Price": "₹24,999",
+  "Offer": "248 Ratings & 22 Reviews",
+  "Total Ratings": "23% off",
+  "Total Reviews": "248"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581add"
+  },
+  "Name": "Nokia 105 Classic with Charger",
+  "Rating": 4.1,
+  "Sales_Price": "₹1,196",
+  "Actual_Price": "₹1,399",
+  "Offer": "618 Ratings & 45 Reviews",
+  "Total Ratings": "14% off",
+  "Total Reviews": "618"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ade"
+  },
+  "Name": "SAMSUNG Galaxy S22 5G (Green, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹36,999",
+  "Actual_Price": "₹85,999",
+  "Offer": "18,752 Ratings & 1,561 Reviews",
+  "Total Ratings": "56% off",
+  "Total Reviews": "18,752"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581adf"
+  },
+  "Name": "Micromax S213",
+  "Rating": 3.9,
+  "Sales_Price": "₹1,210",
+  "Actual_Price": "₹1,699",
+  "Offer": "113 Ratings & 4 Reviews",
+  "Total Ratings": "28% off",
+  "Total Reviews": "113"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ae0"
+  },
+  "Name": "Samsung Galaxy S21 FE 5G with Snapdragon 888 (Graphite, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹28,999",
+  "Actual_Price": "₹69,999",
+  "Offer": "1,41,619 Ratings & 13,684 Reviews",
+  "Total Ratings": "58% off",
+  "Total Reviews": "1,41,619"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ae1"
+  },
+  "Name": "realme 12+ 5G (Pioneer Green, 256 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹21,999",
+  "Actual_Price": "₹25,999",
+  "Offer": "8,913 Ratings & 832 Reviews",
+  "Total Ratings": "15% off",
+  "Total Reviews": "8,913"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ae2"
+  },
+  "Name": "realme 12+ 5G (Navigator Beige, 256 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹21,999",
+  "Actual_Price": "₹25,999",
+  "Offer": "8,913 Ratings & 832 Reviews",
+  "Total Ratings": "15% off",
+  "Total Reviews": "8,913"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ae3"
+  },
+  "Name": "itel A70 | 5000 mAh Battery |13MP Dual Rear Camera | Type C Charging (Starlish Black, 64 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹6,378",
+  "Actual_Price": "₹7,299",
+  "Offer": "797 Ratings & 40 Reviews",
+  "Total Ratings": "12% off",
+  "Total Reviews": "797"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ae4"
+  },
+  "Name": "LAVA Hero 600i Mint Green",
+  "Rating": 4.1,
+  "Sales_Price": "₹839",
+  "Actual_Price": "₹1,199",
+  "Offer": "1,212 Ratings & 80 Reviews",
+  "Total Ratings": "30% off",
+  "Total Reviews": "1,212"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ae5"
+  },
+  "Name": "LAVA A5",
+  "Rating": 4.1,
+  "Sales_Price": "₹1,269",
+  "Actual_Price": "₹1,819",
+  "Offer": "11,199 Ratings & 1,014 Reviews",
+  "Total Ratings": "30% off",
+  "Total Reviews": "11,199"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ae6"
+  },
+  "Name": "Apple iPhone 14 Plus ((PRODUCT)RED, 128 GB)",
+  "Rating": 4.6,
+  "Sales_Price": "₹61,999",
+  "Actual_Price": "₹79,900",
+  "Offer": "68,421 Ratings & 3,944 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "68,421"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ae7"
+  },
+  "Name": "OnePlus 12R (Cool Blue, 128 GB)",
+  "Rating": 4.5,
+  "Sales_Price": "₹36,031",
+  "Actual_Price": "₹39,999",
+  "Offer": "2,975 Ratings & 227 Reviews",
+  "Total Ratings": "9% off",
+  "Total Reviews": "2,975"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ae8"
+  },
+  "Name": "SAMSUNG Galaxy F15 5G (Jazzy Green, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹12,999",
+  "Actual_Price": "₹15,999",
+  "Offer": "6,253 Ratings & 583 Reviews",
+  "Total Ratings": "18% off",
+  "Total Reviews": "6,253"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581ae9"
+  },
+  "Name": "Infinix GT 20 Pro (Mecha Blue, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹26,999",
+  "Actual_Price": "₹34,999",
+  "Offer": "687 Ratings & 50 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "687"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581aea"
+  },
+  "Name": "OnePlus 12R (Iron Gray, 128 GB)",
+  "Rating": 4.5,
+  "Sales_Price": "₹36,425",
+  "Actual_Price": "₹39,999",
+  "Offer": "2,975 Ratings & 227 Reviews",
+  "Total Ratings": "8% off",
+  "Total Reviews": "2,975"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581aeb"
+  },
+  "Name": "OnePlus 12R (Iron Gray, 256 GB)",
+  "Rating": 4.5,
+  "Sales_Price": "₹39,325",
+  "Actual_Price": "₹42,999",
+  "Offer": "2,975 Ratings & 227 Reviews",
+  "Total Ratings": "8% off",
+  "Total Reviews": "2,975"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581aec"
+  },
+  "Name": "POCO X6 Neo 5G (Horizon Blue, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹14,999",
+  "Actual_Price": "₹19,999",
+  "Offer": "6,276 Ratings & 578 Reviews",
+  "Total Ratings": "25% off",
+  "Total Reviews": "6,276"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581aed"
+  },
+  "Name": "POCO X6 Pro 5G (Racing Grey, 256 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹23,999",
+  "Actual_Price": "₹30,999",
+  "Offer": "7,868 Ratings & 1,130 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "7,868"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581aee"
+  },
+  "Name": "SAMSUNG Galaxy F15 5G (Ash Black, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹12,999",
+  "Actual_Price": "₹15,999",
+  "Offer": "6,253 Ratings & 583 Reviews",
+  "Total Ratings": "18% off",
+  "Total Reviews": "6,253"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581aef"
+  },
+  "Name": "REDMI 12 5G (Jade Black, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹11,239",
+  "Actual_Price": "₹15,999",
+  "Offer": "7,710 Ratings & 374 Reviews",
+  "Total Ratings": "29% off",
+  "Total Reviews": "7,710"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581af0"
+  },
+  "Name": "REDMI Note 13 Pro 5G (Coral Purple, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹24,999",
+  "Actual_Price": "₹28,999",
+  "Offer": "13,601 Ratings & 1,328 Reviews",
+  "Total Ratings": "13% off",
+  "Total Reviews": "13,601"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581af1"
+  },
+  "Name": "vivo Y27 (Burgundy Black, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹10,999",
+  "Actual_Price": "₹18,999",
+  "Offer": "1,893 Ratings & 88 Reviews",
+  "Total Ratings": "42% off",
+  "Total Reviews": "1,893"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581af2"
+  },
+  "Name": "SAMSUNG Galaxy M14 5G (Berry Blue, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹12,420",
+  "Actual_Price": "₹18,990",
+  "Offer": "22,793 Ratings & 1,489 Reviews",
+  "Total Ratings": "34% off",
+  "Total Reviews": "22,793"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581af3"
+  },
+  "Name": "Infinix GT 20 Pro (Mecha Silver, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹26,999",
+  "Actual_Price": "₹34,999",
+  "Offer": "687 Ratings & 50 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "687"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581af4"
+  },
+  "Name": "Infinix GT 20 Pro (Mecha Orange, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹26,999",
+  "Actual_Price": "₹34,999",
+  "Offer": "687 Ratings & 50 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "687"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581af5"
+  },
+  "Name": "REDMI A3 (Midnight Black, 64 GB)",
+  "Rating": 4.1,
+  "Sales_Price": "₹6,999",
+  "Actual_Price": "₹9,999",
+  "Offer": "1,435 Ratings & 75 Reviews",
+  "Total Ratings": "30% off",
+  "Total Reviews": "1,435"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581af6"
+  },
+  "Name": "Nokia 106 4G Keypad Mobile, Long-Lasting Battery, MicroSD Card Slot",
+  "Rating": 3.9,
+  "Sales_Price": "₹2,395",
+  "Actual_Price": "₹2,999",
+  "Offer": "2,096 Ratings & 157 Reviews",
+  "Total Ratings": "20% off",
+  "Total Reviews": "2,096"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581af7"
+  },
+  "Name": "REDMI 12 5G (Moonstone Silver, 256 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹13,899",
+  "Actual_Price": "₹19,999",
+  "Offer": "16,949 Ratings & 1,130 Reviews",
+  "Total Ratings": "30% off",
+  "Total Reviews": "16,949"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581af8"
+  },
+  "Name": "SAMSUNG Galaxy M14 5G (Berry Blue, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹12,685",
+  "Actual_Price": "₹18,990",
+  "Offer": "22,793 Ratings & 1,489 Reviews",
+  "Total Ratings": "33% off",
+  "Total Reviews": "22,793"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581af9"
+  },
+  "Name": "realme NARZO 70X 5G (ICE BLUE, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹12,825",
+  "Actual_Price": "₹17,999",
+  "Offer": "375 Ratings & 19 Reviews",
+  "Total Ratings": "28% off",
+  "Total Reviews": "375"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581afa"
+  },
+  "Name": "Tecno POVA 5 Pro 5G (Dark Illusion, 256 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹15,999",
+  "Actual_Price": "₹20,999",
+  "Offer": "1,428 Ratings & 77 Reviews",
+  "Total Ratings": "23% off",
+  "Total Reviews": "1,428"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581afb"
+  },
+  "Name": "POCO X6 5G (Skyline Blue, 256 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹19,999",
+  "Actual_Price": "₹26,999",
+  "Offer": "2,434 Ratings & 300 Reviews",
+  "Total Ratings": "25% off",
+  "Total Reviews": "2,434"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581afc"
+  },
+  "Name": "Infinix GT 20 Pro (Mecha Orange, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹24,999",
+  "Actual_Price": "₹31,999",
+  "Offer": "915 Ratings & 66 Reviews",
+  "Total Ratings": "21% off",
+  "Total Reviews": "915"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581afd"
+  },
+  "Name": "SAMSUNG Galaxy F15 5G (Groovy Violet, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹15,999",
+  "Actual_Price": "₹17,999",
+  "Offer": "1,416 Ratings & 72 Reviews",
+  "Total Ratings": "11% off",
+  "Total Reviews": "1,416"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581afe"
+  },
+  "Name": "IQOO Z7 Pro 5G (Graphite Matte, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹24,300",
+  "Actual_Price": "₹27,999",
+  "Offer": "3,792 Ratings & 258 Reviews",
+  "Total Ratings": "13% off",
+  "Total Reviews": "3,792"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581aff"
+  },
+  "Name": "POCO X6 5G (Snowstorm White, 256 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹18,999",
+  "Actual_Price": "₹24,999",
+  "Offer": "10,287 Ratings & 1,345 Reviews",
+  "Total Ratings": "24% off",
+  "Total Reviews": "10,287"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581b00"
+  },
+  "Name": "OnePlus 11R 5G (Red, 128 GB)",
+  "Rating": 4.5,
+  "Sales_Price": "₹30,778",
+  "Actual_Price": "₹39,999",
+  "Offer": "7,292 Ratings & 592 Reviews",
+  "Total Ratings": "23% off",
+  "Total Reviews": "7,292"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581b01"
+  },
+  "Name": "MOTOROLA A10g Mobile | Dual Sim Keypad Phone | 800 mAh Battery | Expandable Upto 64 GB",
+  "Rating": 4.1,
+  "Sales_Price": "₹1,246",
+  "Actual_Price": "₹1,699",
+  "Offer": "782 Ratings & 65 Reviews",
+  "Total Ratings": "26% off",
+  "Total Reviews": "782"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581b02"
+  },
+  "Name": "REDMI Note 13 5G (Prism Gold, 256 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹19,909",
+  "Actual_Price": "₹24,999",
+  "Offer": "1,159 Ratings & 85 Reviews",
+  "Total Ratings": "20% off",
+  "Total Reviews": "1,159"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581b03"
+  },
+  "Name": "IQOO z9x (Storm Grey, 128 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹14,980",
+  "Actual_Price": "₹18,999",
+  "Offer": "86 Ratings & 1 Reviews",
+  "Total Ratings": "21% off",
+  "Total Reviews": "86"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581b04"
+  },
+  "Name": "Infinix GT 20 Pro (Mecha Blue, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹24,999",
+  "Actual_Price": "₹31,999",
+  "Offer": "915 Ratings & 66 Reviews",
+  "Total Ratings": "21% off",
+  "Total Reviews": "915"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581b05"
+  },
+  "Name": "OnePlus N20 SE (CELESTIAL BLACK, 128 GB)",
+  "Rating": 4.1,
+  "Sales_Price": "₹11,499",
+  "Actual_Price": "₹17,999",
+  "Offer": "642 Ratings & 28 Reviews",
+  "Total Ratings": "36% off",
+  "Total Reviews": "642"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581b06"
+  },
+  "Name": "REDMI Note 13 5G (Arctic White, 256 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹20,234",
+  "Actual_Price": "₹24,999",
+  "Offer": "1,159 Ratings & 85 Reviews",
+  "Total Ratings": "19% off",
+  "Total Reviews": "1,159"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581b07"
+  },
+  "Name": "itel A70 | 5000 mAh Battery |13MP Dual Rear Camera | Type C Charging (Brilliant Gold, 64 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹6,313",
+  "Actual_Price": "₹6,499",
+  "Offer": "797 Ratings & 40 Reviews",
+  "Total Ratings": "2% off",
+  "Total Reviews": "797"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581b08"
+  },
+  "Name": "Infinix GT 20 Pro (Mecha Silver, 256 GB)",
+  "Rating": 4.4,
+  "Sales_Price": "₹24,999",
+  "Actual_Price": "₹31,999",
+  "Offer": "915 Ratings & 66 Reviews",
+  "Total Ratings": "21% off",
+  "Total Reviews": "915"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581b09"
+  },
+  "Name": "REDMI 13c 5G (Starlight Black, 256 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹13,499",
+  "Actual_Price": "₹17,999",
+  "Offer": "2,777 Ratings & 161 Reviews",
+  "Total Ratings": "25% off",
+  "Total Reviews": "2,777"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581b0a"
+  },
+  "Name": "POCO X6 5G (Skyline Blue, 256 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹18,999",
+  "Actual_Price": "₹24,999",
+  "Offer": "10,287 Ratings & 1,345 Reviews",
+  "Total Ratings": "24% off",
+  "Total Reviews": "10,287"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581b0b"
+  },
+  "Name": "realme NARZO 70X 5G (FOREST GREEN, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹13,098",
+  "Actual_Price": "₹17,999",
+  "Offer": "375 Ratings & 19 Reviews",
+  "Total Ratings": "27% off",
+  "Total Reviews": "375"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581b0c"
+  },
+  "Name": "POCO X6 Pro 5G (Yellow, 256 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹23,999",
+  "Actual_Price": "₹30,999",
+  "Offer": "7,868 Ratings & 1,130 Reviews",
+  "Total Ratings": "22% off",
+  "Total Reviews": "7,868"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581b0d"
+  },
+  "Name": "realme 12+ 5G (Navigator Beige, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹20,999",
+  "Actual_Price": "₹23,999",
+  "Offer": "8,913 Ratings & 832 Reviews",
+  "Total Ratings": "12% off",
+  "Total Reviews": "8,913"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581b0e"
+  },
+  "Name": "LAVA YUVA 2 PRO (GLASS LAVENDER, 64 GB)",
+  "Rating": 4.1,
+  "Sales_Price": "₹6,970",
+  "Actual_Price": "₹9,999",
+  "Offer": "1,138 Ratings & 78 Reviews",
+  "Total Ratings": "30% off",
+  "Total Reviews": "1,138"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581b0f"
+  },
+  "Name": "REDMI 13C (Starshine Green, 256 GB)",
+  "Rating": 4.1,
+  "Sales_Price": "₹10,399",
+  "Actual_Price": "₹15,999",
+  "Offer": "1,087 Ratings & 60 Reviews",
+  "Total Ratings": "35% off",
+  "Total Reviews": "1,087"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581b10"
+  },
+  "Name": "REDMI 13c 5G (Starlight Black, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹10,297",
+  "Actual_Price": "₹13,999",
+  "Offer": "5,483 Ratings & 220 Reviews",
+  "Total Ratings": "26% off",
+  "Total Reviews": "5,483"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581b11"
+  },
+  "Name": "REDMI Note 13 5G (Stealth Black, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "Not launched yet",
+  "Actual_Price": "Same Price",
+  "Offer": "6,782 Ratings & 447 Reviews",
+  "Total Ratings": "No Offer",
+  "Total Reviews": "6,782"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581b12"
+  },
+  "Name": "REDMI A3 (Lake Blue, 64 GB)",
+  "Rating": 4.1,
+  "Sales_Price": "₹6,999",
+  "Actual_Price": "₹9,999",
+  "Offer": "1,435 Ratings & 75 Reviews",
+  "Total Ratings": "30% off",
+  "Total Reviews": "1,435"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581b13"
+  },
+  "Name": "POCO X6 5G (Mirror Black, 512 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹21,999",
+  "Actual_Price": "₹27,999",
+  "Offer": "2,434 Ratings & 300 Reviews",
+  "Total Ratings": "21% off",
+  "Total Reviews": "2,434"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581b14"
+  },
+  "Name": "itel A70 | 5000 mAh Battery |13MP Dual Rear Camera | Type C Charging (Field Green, 64 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹6,300",
+  "Actual_Price": "₹6,499",
+  "Offer": "797 Ratings & 40 Reviews",
+  "Total Ratings": "3% off",
+  "Total Reviews": "797"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581b15"
+  },
+  "Name": "SAMSUNG Galaxy S23 5G (Phantom Black, 256 GB)",
+  "Rating": 4.5,
+  "Sales_Price": "₹51,999",
+  "Actual_Price": "₹95,999",
+  "Offer": "8,291 Ratings & 833 Reviews",
+  "Total Ratings": "45% off",
+  "Total Reviews": "8,291"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581b16"
+  },
+  "Name": "Kechaoda K115",
+  "Rating": 4.1,
+  "Sales_Price": "₹1,057",
+  "Actual_Price": "₹1,499",
+  "Offer": "35,195 Ratings & 2,486 Reviews",
+  "Total Ratings": "29% off",
+  "Total Reviews": "35,195"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581b17"
+  },
+  "Name": "Nokia 105 Single SIM, Keypad Mobile Phone with Wireless FM Radio",
+  "Rating": 4.1,
+  "Sales_Price": "₹1,275",
+  "Actual_Price": "₹1,399",
+  "Offer": "1,01,278 Ratings & 6,405 Reviews",
+  "Total Ratings": "8% off",
+  "Total Reviews": "1,01,278"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581b18"
+  },
+  "Name": "SAMSUNG Galaxy F14 5G (B.A.E. Purple, 128 GB)",
+  "Rating": 4.2,
+  "Sales_Price": "₹8,990",
+  "Actual_Price": "₹17,490",
+  "Offer": "42,991 Ratings & 2,867 Reviews",
+  "Total Ratings": "48% off",
+  "Total Reviews": "42,991"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581b19"
+  },
+  "Name": "REDMI 13c 5G (Startrail Green, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹10,288",
+  "Actual_Price": "₹13,999",
+  "Offer": "5,483 Ratings & 220 Reviews",
+  "Total Ratings": "26% off",
+  "Total Reviews": "5,483"
+},
+{
+  "_id": {
+    "$oid": "666a82e757640de961581b1a"
+  },
+  "Name": "REDMI Note 13 Pro 5G (Midnight Black, 128 GB)",
+  "Rating": 4.3,
+  "Sales_Price": "₹24,999",
+  "Actual_Price": "₹28,999",
+  "Offer": "13,601 Ratings & 1,328 Reviews",
+  "Total Ratings": "13% off",
+  "Total Reviews": "13,601"
+}]
